@@ -6838,7 +6838,7 @@ msgstr ""
 
 #: disease.cpp:286
 msgid "Your legs are cramping up."
-msgstr ""
+msgstr "Deine Beine verkrampfen sich."
 
 #: disease.cpp:1458
 msgid "Your legs are dangerously cold. Your strength is sapped."
@@ -8058,7 +8058,7 @@ msgstr "Schwerer Holzpfeil"
 
 #: lang/json/json_items.py:948
 msgid "heavy wood arrow shaft"
-msgstr ""
+msgstr "Schwerer hölzener Pfeilschaft"
 
 #: lang/json/json_items.py:11
 msgid "heels"
@@ -8162,11 +8162,11 @@ msgstr "Jediumhang"
 
 #: lang/json/json_items.py:1081
 msgid "jerk jerky"
-msgstr ""
+msgstr "Dörrfleisch"
 
 #: lang/json/json_items.py:24
 msgid "jumpsuit"
-msgstr ""
+msgstr "Overall"
 
 #: lang/json/json_items.py:1433
 msgid "katana"
@@ -8310,7 +8310,7 @@ msgstr "Eidechsenmutagen"
 
 #: lang/json/json_items.py:484
 msgid "log"
-msgstr ""
+msgstr "Holzklotz"
 
 #: lang/json/json_items.py:1035
 msgid "long island iced tea"
@@ -8334,7 +8334,7 @@ msgstr "Makaroni mit Käse"
 
 #: lang/json/json_items.py:533
 msgid "mace"
-msgstr ""
+msgstr "Keule"
 
 #: lang/json/json_items.py:1432
 msgid "machete"
@@ -8350,7 +8350,7 @@ msgstr "Selbsgebaute Machete"
 
 #: lang/json/json_items.py:463
 msgid "manhole cover"
-msgstr " Abdeckung"
+msgstr "Kanaldeckel"
 
 #: lang/json/json_items.py:1161
 msgid "marijuana"
@@ -8358,7 +8358,7 @@ msgstr "Marihuana"
 
 #: lang/json/json_items.py:1117
 msgid "marloss berry"
-msgstr ""
+msgstr "Marlossbeere"
 
 #: lang/json/json_items.py:1330
 msgid "matchbook"
@@ -8378,7 +8378,7 @@ msgstr "Fleischsuppe"
 
 #: lang/json/json_items.py:1491
 msgid "medical gauze"
-msgstr ""
+msgstr "Verbandmull"
 
 #: lang/json/json_items.py:69
 msgid "medical gloves"
@@ -8390,7 +8390,7 @@ msgstr "Medizinisches Band"
 
 #: lang/json/json_items.py:110
 msgid "messenger bag"
-msgstr ""
+msgstr "Umhängetasche"
 
 #: lang/json/json_items.py:59
 msgid "metal arm guards"
@@ -8454,7 +8454,7 @@ msgstr "Deformierter Fötus"
 
 #: lang/json/json_items.py:62
 msgid "mittens"
-msgstr ""
+msgstr "Fäustlinge"
 
 #: lang/json/json_items.py:8
 msgid "mocassins"
@@ -9003,8 +9003,8 @@ msgid "short bow"
 msgstr "Kurzbogen"
 
 #: lang/json/json_items.py:1659
-msgid "Gekürzter Lauf"
-msgstr ""
+msgid "shortened barrel"
+msgstr "Gekürzter Lauf"
 
 #: lang/json/json_items.py:13
 msgid "shorts"
@@ -9116,7 +9116,7 @@ msgstr "Rauchbombe"
 
 #: lang/json/json_items.py:1457
 msgid "snare trigger"
-msgstr ""
+msgstr "Fallenauslöser"
 
 #: lang/json/json_items.py:3
 msgid "sneakers"
@@ -9188,7 +9188,7 @@ msgstr "Gesplittertes Holz"
 
 #: lang/json/json_items.py:508
 msgid "spork"
-msgstr ""
+msgstr "Löffelgabel"
 
 #: lang/json/json_items.py:1464
 msgid "spray can"
@@ -9400,11 +9400,11 @@ msgstr "Stolperdrahtfalle"
 
 #: lang/json/json_items.py:1055
 msgid "troglobite mutagen"
-msgstr ""
+msgstr "Stygobiontitmutagen"
 
 #: lang/json/json_items.py:357
 msgid "tube 40mm launcher"
-msgstr ""
+msgstr "40mm Röhrengranatwerfen"
 
 #: lang/json/json_items.py:1108
 msgid "tuna fish"
