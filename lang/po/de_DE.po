@@ -3709,7 +3709,7 @@ msgstr ""
 
 #: lang/json/json_items.py:1190
 msgid "Drinking this might make you feel like a pirate. Or not."
-msgstr ""
+msgstr "Wenn du das hier drinkst, fühlst du dich vielleicht wie ein Pirat. Oder auch nicht."
 
 #: weather_data.cpp:31
 msgid "Drizzle"
@@ -3732,6 +3732,8 @@ msgid ""
 "Electronic device that can convert solar radiation into electric power. "
 "Useful for crafting."
 msgstr ""
+"Dieser Apparat kann solare Strahlung in elektrische Energie umwandeln."
+"Kann zur Itemherstellung verwendet werden."
 
 #: lang/json/json_items.py:886
 msgid "Engineering 301"
@@ -3745,6 +3747,7 @@ msgstr "Felher: Fehlender Gegenstand."
 msgid ""
 "Exciting recipes and restaurant reviews. Full of handy tips about cooking."
 msgstr ""
+"Aufregende Rezepte und Gasthausbewertungen. Voll mit nützlichen Tipps zum Thema Kochen."
 
 #: player.cpp:2456
 msgid "Exhausted"
@@ -3756,11 +3759,11 @@ msgstr "SCHUSSWAFFEN:"
 
 #: lang/json/json_items.py:344
 msgid "FN FAL"
-msgstr ""
+msgstr "FN FAL"
 
 #: lang/json/json_items.py:313
 msgid "FN Five-Seven"
-msgstr ""
+msgstr "FN Five-Seven"
 
 #: lang/json/json_items.py:1695
 msgid ""
@@ -3768,6 +3771,7 @@ msgid ""
 "to their proprietary 5.7x28mm, a round designed for accuracy and armor "
 "penetration."
 msgstr ""
+""
 
 #: lang/json/json_items.py:331
 msgid "FN P90"
@@ -3795,15 +3799,15 @@ msgstr "Ausgehungert"
 
 #: lang/json/json_items.py:154
 msgid "Fancy patent leather shoes. Not designed for running in."
-msgstr ""
+msgstr "Ausgefallene patentierte Lederschuhe. Nicht zum laufen geeignet."
 
 #: lang/json/json_items.py:776
 msgid "Feathers from a bird. Useful for fletching arrows"
-msgstr ""
+msgstr "Federn eines Vogels. Können zum befiedern von Pfeilen verwendet werden."
 
 #: lang/json/json_items.py:835
 msgid "Firearm quality gunpowder."
-msgstr ""
+msgstr "Waffentaugliches Qualitätsschießpilver"
 
 #: weather_data.cpp:49
 msgid "Flurries"
@@ -3819,7 +3823,7 @@ msgstr "Lebensmittelvergiftung"
 
 #: lang/json/json_items.py:1584
 msgid "Food for dogs. It smells strange, but dogs love it."
-msgstr ""
+msgstr "Nahrungsmittel für Hunde. Es riecht zwar komisch aber Hunde lieben es."
 
 #: lang/json/json_items.py:631
 msgid "Foons are for scrubs, real men use sporks."
@@ -3868,27 +3872,27 @@ msgstr "Regelmäßige Schmerzen und/oder Schaden."
 
 #: lang/json/json_items.py:1254
 msgid "Fresh wet noodles. Fairly bland, but fills you up."
-msgstr ""
+msgstr "Frischgekochte Nudeln. Schmecken nach nichts aber machen satt."
 
 #: lang/json/json_items.py:1172
 msgid "Fresh, clean water. Truly the best thing to quench your thirst."
-msgstr ""
+msgstr "Frisches klares Wasser. Wohl das beste Getränk um deinen Durst zu löschen."
 
 #: lang/json/json_items.py:1222
 msgid "Freshly butchered from a human body."
-msgstr ""
+msgstr "Frisch aus einem menschlichen Körper geschlachtet."
 
 #: lang/json/json_items.py:1220
 msgid "Freshly butchered meat. You could eat it raw, but cooking it is better."
-msgstr ""
+msgstr "Frisch geschlachtetes Fleisch. Du könntest es roh essen, gekocht schmeckt es aber besser."
 
 #: lang/json/json_items.py:1226
 msgid "Freshly cooked meat. Very nutritious."
-msgstr ""
+msgstr "Frisch gekochtes Fleisch. Sehr Nahrhaft."
 
 #: lang/json/json_items.py:1175
 msgid "Freshly-squeezed from real oranges! Tasty and nutritious."
-msgstr ""
+msgstr "Kürzlich gepresst aus echten Orangen! Schmackhaft und Gesund."
 
 #: disease.cpp:1292
 msgid "Frostbite - face"
@@ -3927,7 +3931,7 @@ msgstr ""
 
 #: lang/json/json_items.py:920
 msgid "Full of useful tips for showing confidence in your speech."
-msgstr ""
+msgstr "Voller nützlicher Tipps die dir helfen deine Redegewandtheit zu steigern."
 
 #: disease.cpp:553
 msgid "Fully rested."
@@ -3955,11 +3959,14 @@ msgid ""
 "Gasoline is a highly flammable liquid. When under pressure, it has the "
 "potential for violent explosion."
 msgstr ""
+"Benzin ist eine höchst entflammbare Flüssigkeit. Unter Druck gesetzt hat "
+"es eine vernichtende Sprengkraft."
 
 #: lang/json/json_items.py:215
 msgid ""
 "Gauntlets made from the exoskeletons of insects. Very light and durable."
 msgstr ""
+"Handschuhe, gemacht aus den Exoskeletten von Insekten. Sehr leicht und Langlebig."
 
 #: disease.cpp:1245
 msgid "Glare"
@@ -3978,10 +3985,12 @@ msgid ""
 "Ground coffee beans. You can boil it into a mediocre stimulant, or swallow "
 "it raw for a lesser stimulative boost."
 msgstr ""
+"Gemahlene Kaffeebohnen. Kann zu einem Aufputschmittel mit mittlerer wirkung "
+"gekocht werden. Bei rohem Verzehr fällt die Wirkung jedoch leichter aus."
 
 #: lang/json/json_items.py:147
 msgid "Guaranteed to make you run faster and jump higher!"
-msgstr ""
+msgstr "Hiermit kannst du garantiert schneller laufen und höher springen!"
 
 #: lang/json/json_items.py:289
 msgid "Guitar"
