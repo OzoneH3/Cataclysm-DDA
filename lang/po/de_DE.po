@@ -685,7 +685,7 @@ msgstr ""
 
 #: lang/json/json_items.py:917
 msgid "A classic Soviet text on the art of attacking with a blade."
-msgstr "Ein klassischer Sovietischer text in der Kunst mit einem Messer zu Kämpfen."
+msgstr "Ein klassischer Sovietischer Text über die Kunst mit einem Messer zu Kämpfen."
 
 #: lang/json/json_items.py:937
 msgid ""
@@ -727,7 +727,7 @@ msgstr ""
 
 #: lang/json/json_items.py:269
 msgid "A compact wool blanket that covers your most important body parts."
-msgstr "Eine kompakte Wolldecke welche bei Benutzung die wichtigsten Körperteile bedeckt."
+msgstr "Eine kompakte Wolldecke, welche bei Benutzung die wichtigsten Körperteile bedeckt."
 
 #: lang/json/json_items.py:1649
 msgid ""
@@ -809,7 +809,7 @@ msgstr "Ein Detektiv geht einem ungewöhnlichen Mord in einer abgelegenen Villa 
 
 #: lang/json/json_items.py:1524
 msgid "A digging tool. Use it to dig pits adjacent to your location."
-msgstr "Ein Werkzeug zum Graden. Benutze es um Löcher auszuheben."
+msgstr "Ein Werkzeug zum Graben. Benutze es um Löcher auszuheben."
 
 #: lang/json/json_items.py:434
 msgid ""
@@ -821,7 +821,7 @@ msgstr ""
 
 #: lang/json/json_items.py:591
 msgid "A dull knife, absolutely worthless in combat."
-msgstr "Ein stumpfes Messer. Komplett nutzlis in einem Gefecht."
+msgstr "Ein stumpfes Messer. Komplett nutzlos in einem Gefecht."
 
 #: lang/json/json_items.py:1523
 msgid ""
@@ -872,7 +872,7 @@ msgid ""
 "A fist-sized eyeball with a cross-shaped pupil. It seems to be made of "
 "stone, but doesn't look like it was carved."
 msgstr ""
-"Ein Faustgroßer Augapfel mit einer Kreuzähnlichen Pupille. Es sieht aus als "
+"Ein faustgroßer Augapfel mit einer kreuzähnlichen Pupille. Es sieht aus als "
 "wäre es aus Stein gemacht aber anscheinend nicht gemeiselt."
 
 #: lang/json/json_items.py:260
@@ -880,7 +880,7 @@ msgid ""
 "A flashy gold ring. You can wear it if you like, but it won't provide any "
 "effects."
 msgstr ""
-"Ein funkelnder goldener Ring. Du kannst ihn tragen wenn du wills, hat aber "
+"Ein funkelnder goldener Ring. Du kannst ihn tragen wenn du wills, er hat aber "
 "keine besonderen Auswirkungen auf dich."
 
 #: lang/json/json_items.py:1638
@@ -888,7 +888,7 @@ msgid ""
 "A flattened stone affixed to a stick, works passably well as a shovel but "
 "really can't compare to a real shovel."
 msgstr ""
-"Ein falscher Stein welcher auf einen Stock gebunden wurde. Funktioniert einigermaßen "
+"Ein abgeflachter Stein, welcher auf einen Stock gebunden wurde. Funktioniert einigermaßen "
 "als Schaufel, kann aber noch lange nicht mit einer richtigen mithalten."
 
 #: lang/json/json_items.py:1525
@@ -896,34 +896,40 @@ msgid ""
 "A flexible rubber hose. Can be used for crafting, or siphoning fuel from a "
 "vehicle."
 msgstr ""
+"Ein biegbarer Gummischlauch. Kann zum Herstellen von Gegenständen oder zum Absaugen "
+"des Treibstoffes eines Fahrzeugs genutzt werden."
 
 #: lang/json/json_items.py:1606
 msgid "A flimsy saw, useful for cutting through wood objects."
-msgstr ""
+msgstr "Eine dünne Säge - nützlich, um Gegenstände aus Holz durchzuschneiden."
 
 #: lang/json/json_items.py:1219
 msgid ""
 "A fluid bladder from a plant based lifeform, not very nutritious, but fine "
 "to eat anyway."
 msgstr ""
+"Die flüssige Blase einer pflanzlichen Lebensform. Nicht sehr nahrhaft, aber "
+"trotzdem eine gute Mahlzeit für zwischendurch."
 
 #: lang/json/json_items.py:630
 msgid ""
 "A fork, if you stab something with it you eat it right away. Wait.. "
 "nevermind."
 msgstr ""
+"Eine Gabel. Wenn du etwas mit ihr anstichst, iss es sofort. Warte.. "
+"vergiss es."
 
 #: lang/json/json_items.py:1279
 msgid "A fragrant mix of dried oregano, basil, thyme and other spices."
-msgstr ""
+msgstr "Eine duftende Mischung aus getrocknetem Oregano, Basilikum, Thymian und anderen Gewürzen."
 
 #: lang/json/json_items.py:1228
 msgid "A freshly cooked chunk of plant matter, tasty and nutritious."
-msgstr ""
+msgstr "Ein frisch zubereitetes Stück Pflanzenmaterial, lecker und nahrhaft."
 
 #: lang/json/json_items.py:1227
 msgid "A freshly cooked slice of some unpleasant person. Tastes great."
-msgstr ""
+msgstr "Ein frisch zubereitetes Stück irgendeiner unangenehmen Person. Sehr schmackhaft."
 
 #: lang/json/json_items.py:169
 msgid ""
@@ -6234,7 +6240,7 @@ msgstr ""
 
 #: lang/json/json_items.py:1182
 msgid "Vegetable stock. Tasty and fairly nutritious."
-msgstr "Einfache Gemüsebrühe. Schmeckt ausgezeichnet und ist ausserdem noch sehr Nahrhaft."
+msgstr "Einfache Gemüsebrühe. Schmeckt ausgezeichnet und ist außerdem noch sehr nahrhaft."
 
 #: lang/json/json_items.py:1225
 msgid ""
@@ -6471,11 +6477,11 @@ msgstr "Du kannst fühlen, wie sich die kleinen Sporen in dein Fleisch bohren."
 
 #: lang/json/json_items.py:895
 msgid "You can read it for the articles. Or not."
-msgstr "Du kannst es für die Artikel lesen. Oder aber auch nicht."
+msgstr "Du kannst ihn für die Artikel lesen. Oder aber auch nicht."
 
 #: disease.cpp:70
 msgid "You can't breathe... asthma attack!"
-msgstr "Du kannst nicht atmen... Asthma attacke!"
+msgstr "Du kannst nicht atmen... Asthmaanfall!"
 
 #: disease.cpp:85
 msgid "You can't look away from the faultline..."
@@ -6512,11 +6518,11 @@ msgstr "Die fühlst dich übel und wie eine Versuchsratte."
 
 #: disease.cpp:20
 msgid "You feel a cold coming on..."
-msgstr "Du fühlst die anfänge einer Erkältung..."
+msgstr "Du fühlst die Anfänge einer Erkältung..."
 
 #: disease.cpp:23
 msgid "You feel a flu coming on..."
-msgstr "Du fühlst die anfänge einer Grippe..."
+msgstr "Du fühlst die Anfänge einer Grippe..."
 
 #: disease.cpp:851
 msgid "You feel a little strange."
@@ -6540,19 +6546,19 @@ msgstr "Die fühlst dich übel."
 
 #: disease.cpp:1164
 msgid "You feel terribly weak, standing up is nearly impossible."
-msgstr "Du fühlst die furchbar schwach, stehen ist fast ein Ding der Unmöglichkeit."
+msgstr "Du fühlst dich furchbar schwach, Stehen ist fast ein Ding der Unmöglichkeit."
 
 #: disease.cpp:606
 msgid "You feel your skeleton melt"
-msgstr "Du fühlst wie dein Skelett schmilzt."
+msgstr "Du fühlst, wie dein Skelett schmilzt."
 
 #: disease.cpp:602
 msgid "You feel your skeleton melt and mend."
-msgstr "Du fühlst wie dein Skelett schmelzen und sich richtet."
+msgstr "Du fühlst, wie dein Skelett schilzt und sich richtet."
 
 #: disease.cpp:1786
 msgid "You have a nasty bite wound."
-msgstr "Die hast eine garstige Bisswunde."
+msgstr "Du hast eine garstige Bisswunde."
 
 #: disease.cpp:1787
 msgid "You have an infected wound."
@@ -6596,7 +6602,7 @@ msgstr "Du hast zu viel geraucht!"
 
 #: disease.cpp:465
 msgid "You spasm suddenly!"
-msgstr "Plötzliche spasmen durchziehen deinen Körper!"
+msgstr "Plötzliche Krämpfe durchziehen deinen Körper!"
 
 #: disease.cpp:833
 msgid "You start scratching yourself all over!"
@@ -6672,17 +6678,17 @@ msgstr "Du wurdest zu Boden geschlagen."
 
 #: disease.cpp:1640
 msgid "You're knocked to the ground.  You have to get up before you can move."
-msgstr "Du wurdest zu Boden geschlagen. Du musst aufstehen bevor du weitergehen kannst."
+msgstr "Du wurdest zu Boden geschlagen. Du musst aufstehen, bevor du weitergehen kannst."
 
 #: disease.cpp:26
 msgid "You're on fire!"
-msgstr "Bu brennst!"
+msgstr "Du brennst!"
 
 #: disease.cpp:1753
 msgid ""
 "You're stuck in a pit.  Sight distance is limited and you have to climb out."
 msgstr ""
-"Du steckst in einer Grube fest. Die sichtweite ist begrenzt und du musst hinausklettern."
+"Du steckst in einer Grube fest. Die Sichtweite ist begrenzt und du musst hinausklettern."
 
 #: disease.cpp:79
 msgid "You're stunned!"
@@ -6739,7 +6745,7 @@ msgstr "Deine Arme schwitzen von der Hitze."
 msgid ""
 "Your arms are sweating profusely. Your muscles are in pain due to cramps."
 msgstr ""
-"Deine Arme schwitzen beträchtlich. Deine Muskeln schmerzen unter krämpfen."
+"Deine Arme schwitzen beträchtlich. Deine Muskeln schmerzen unter Krämpfen."
 
 #: disease.cpp:1443
 msgid "Your arms are very exposed to the cold. Your arms are shivering."
@@ -6751,7 +6757,7 @@ msgstr "Deine Arme fühlen sich warm an."
 
 #: disease.cpp:903
 msgid "Your asthma overcomes you.  You stop breathing and die..."
-msgstr "Dein Asthma übermannt dich. Die stoppst zu Atmen und stirbst..."
+msgstr "Dein Asthma übermannt dich. Dein Atmen stoppt und du stirbst..."
 
 #: disease.cpp:95
 msgid "Your bite wound feels infected"
@@ -6828,7 +6834,7 @@ msgstr "Dein Gesicht ist der Kälte extrem ausgesetzt."
 msgid ""
 "Your feet are blistering from the intense heat. It is extremely painful."
 msgstr ""
-"Auf deinen Füßen entstehen Blasen von der starken hitze. Es ist "
+"Auf deinen Füßen entstehen Blasen von der starken Hitze. Es ist "
 "extrem schmerzhaft."
 
 #: disease.cpp:1465
@@ -6852,12 +6858,12 @@ msgid ""
 "Your feet are frostnipped from the prolonged exposure to the cold and have "
 "gone numb. When the blood begins to flow, it will be painful."
 msgstr ""
-"Deine Füße haben leichte Erfrierungen vonder andauernden Kälteaussetzung und "
+"Deine Füße haben leichte Erfrierungen von der andauernden Kälteaussetzung und "
 "sind taub. Sobald das Blut wieder fließt wird es schmerzhaft."
 
 #: disease.cpp:1544 disease.cpp:1545
 msgid "Your feet are painfully swollen due to the heat."
-msgstr "Deine Füße sind schmerzhaft geschwollen dirch die Hitze."
+msgstr "Deine Füße sind schmerzhaft geschwollen durch die Hitze."
 
 #: disease.cpp:295
 msgid "Your feet are swelling in the heat."
@@ -6879,7 +6885,7 @@ msgstr "Dein Füße fühlen sie warm an."
 msgid ""
 "Your hands are blistering from the intense heat. It is extremely painful."
 msgstr ""
-"Auf deinen Händen entstehen Blasen von der starken hitze. Es ist "
+"Auf deinen Händen entstehen Blasen von der starken Hitze. Es ist "
 "extrem schmerzhaft."
 
 #: disease.cpp:1451
@@ -6918,7 +6924,7 @@ msgstr "Deine Hände sind der Kälte extrem ausgesetzt. Deine Hände zittern."
 
 #: disease.cpp:1531
 msgid "Your hands feel disgustinly hot and are very incoordinated."
-msgstr "Deine Hände fühlen sich ekelhaft heiß an und sind seh unkooridiniert."
+msgstr "Deine Hände fühlen sich ekelhaft heiß an und sind seh unkoordiniert."
 
 #: disease.cpp:1530
 msgid "Your hands feel hot and incoordinated."
@@ -6940,7 +6946,7 @@ msgstr "Dein Kopf fühlt sich warm an."
 msgid ""
 "Your head is dangerously cold. Getting undressed sounds like a good idea."
 msgstr ""
-"Dein Kopf ist gefährlich kalt. Sich nakt auszuziehen hört sich wie eine gute Idee an."
+"Dein Kopf ist gefährlich kalt. Sich auszuziehen hört sich wie eine gute Idee an."
 
 #: disease.cpp:1421
 msgid "Your head is exposed to the cold."
@@ -6975,13 +6981,13 @@ msgstr "Deine infizierte Wunde ist unglaublich schmerzhaft."
 msgid ""
 "Your insides are shifting in strange ways as the treatment takes effect."
 msgstr ""
-"Du fühlst, wie sich deine Gedärme in eigenartige Richungen verlagern als die Behalndlung beginnt."
+"Du fühlst, wie sich deine Gedärme in eigenartige Richungen verlagern als die Behandlung beginnt."
 
 #: disease.cpp:1556
 msgid ""
 "Your legs are blistering from the intense heat. It is extremely painful."
 msgstr ""
-"Auf deinen Beinen entstehen Blasen von der starken hitze. Es ist "
+"Auf deinen Beinen entstehen Blasen von der starken Hitze. Es ist "
 "extrem schmerzhaft."
 
 #: disease.cpp:286
@@ -7028,7 +7034,7 @@ msgstr "Deine Beine fühlen sich warm an."
 
 #: disease.cpp:1638
 msgid "Your movement is randomized."
-msgstr "Du bewegungst dich in eine zufällig Richtung."
+msgstr "Du bewegst dich in eine zufällige Richtung."
 
 #: disease.cpp:1778
 msgid ""
@@ -7046,7 +7052,7 @@ msgid ""
 "condition, and deals massive damage."
 msgstr ""
 "Dein nächster Angriff ist ein Schlangangriff. Dazu müssen beide deiner Arme "
-"in guter kondition sein um extra Schaden zu verursachen."
+"in guter Kondition sein um extra Schaden zu verursachen."
 
 #: disease.cpp:1660
 msgid ""
@@ -7067,12 +7073,12 @@ msgstr "Dein Oberkörper fühlt sich warm an."
 msgid ""
 "Your torso is blistering from the intense heat. It is extremely painful."
 msgstr ""
-"Auf deinem Oberkörper entstehen Blasen von der starken hitze. Es ist "
+"Auf deinem Oberkörper entstehen Blasen von der starken Hitze. Es ist "
 "extrem schmerzhaft."
 
 #: disease.cpp:136
 msgid "Your torso is burning up. You should remove some layers."
-msgstr "Dein Oberkörper brennt vor hitze. Du solltest etwas ausziehen."
+msgstr "Dein Oberkörper brennt vor Hitze. Du solltest etwas ausziehen."
 
 #: disease.cpp:1437
 msgid ""
@@ -7094,7 +7100,7 @@ msgstr ""
 
 #: disease.cpp:1516
 msgid "Your torso is sweating from the heat. You feel weak."
-msgstr "Dein Oberkörper schwitzt von der hitze. Du fühlst dich schwach."
+msgstr "Dein Oberkörper schwitzt von der Hitze. Du fühlst dich schwach."
 
 #: disease.cpp:1517
 msgid "Your torso is sweating profusely. You feel very weak."
@@ -7110,7 +7116,7 @@ msgstr "Dein Sichtfeld ist voller heller lichter..."
 
 #: lang/json/json_items.py:1262
 msgid "Yuck, not very tasty, but it is quite filling."
-msgstr "Igitt, nicht sehr schmackhaft aber sehr füllend."
+msgstr "Igitt, nicht sehr schmackhaft, aber sehr füllend."
 
 #: lang/json/json_items.py:1278
 msgid ""
@@ -7118,7 +7124,7 @@ msgid ""
 "and cooking with, though."
 msgstr ""
 "Igitt, du willst das sicher nicht essen. Es eignet sich aber gut zum "
-"konservieren von Fleisch und zum Kochen."
+"Konservieren von Fleisch und zum Kochen."
 
 #: lang/json/json_items.py:559
 msgid "a poppy bud"
@@ -7454,7 +7460,7 @@ msgstr "Breitschwert"
 
 #: lang/json/json_items.py:1090
 msgid "broccoli"
-msgstr "Brokoli"
+msgstr "Brokkoli"
 
 #: lang/json/json_items.py:519
 msgid "broom"
@@ -7614,7 +7620,7 @@ msgstr "Zigarren"
 
 #: lang/json/json_items.py:1014
 msgid "clean water"
-msgstr "Klares Wasser"
+msgstr "Sauberes Wasser"
 
 #: lang/json/json_items.py:130
 msgid "cloak"
@@ -7758,7 +7764,7 @@ msgstr "Ausgebranntes Knicklicht"
 
 #: lang/json/json_items.py:121
 msgid "deputy badge"
-msgstr "Hilfsscherrif Makre"
+msgstr "Hilfsscherrif Marke"
 
 #: lang/json/json_items.py:499
 msgid "desk fan"
