@@ -846,7 +846,7 @@ msgid ""
 "slow and rather difficult to get a fire started with this tool."
 msgstr ""
 "Ein Feuerbohrer ist ein archaisches Gerät zum Feuermachen. Hergestellt aus 2 "
-"Holzstücken und ein wenig Schnur. Trotz der simplen Bauweise, kann es recht "
+"Holzstücken und ein wenig Schnur. Trotz der simplen Bauweise kann es recht "
 "langsam und schwierig sein damit ein Feuer zu entfachen."
 
 #: lang/json/json_items.py:1568
@@ -936,34 +936,45 @@ msgid ""
 "A full body fursuit in the form of an anthropomorphic wolf. It is quite "
 "encumbering and has little storage but is very warm."
 msgstr ""
+"Ein Ganzkörper-fursuit in der Form eines anthropomorphischen Wolfes. Er "
+"behindert deine Bewegungen und bietet wenig Stauraum, is allerdings sehr warm."
 
 #: lang/json/json_items.py:942
 msgid ""
 "A full flight log for a military aircraft.  Nothing of interest stands out."
 msgstr ""
+"Das komplette Logbuch eines Flugs eines Militärfluggerätes. Dir fällt nichts "
+"besonderes auf."
 
 #: lang/json/json_items.py:221
 msgid ""
 "A full gas mask that covers the face and eyes. Provides excellent protection "
 "from smoke, teargas, and other contaminants."
 msgstr ""
+"Eine Gasmaske, die dein Gesicht inklusive deiner Augen bedeckt. Sie bietet "
+"ausgezeichneten Schutz vor Rauch, Tränengas und anderen Fremdkörpern."
 
 #: lang/json/json_items.py:1301
 msgid ""
 "A full medical kit, with bandages, local anaesthetics, and rapid healing "
 "agents. Used for healing large amounts of damage."
 msgstr ""
+"Ein Erste-Hilfe-Koffer, der Verbände, Lokalanästhetika und eine Vielzahl "
+"von Arzneimitteln enthält. Nützlich, um schwere Verletzungen zu behandeln."
 
 #: lang/json/json_items.py:172
 msgid ""
 "A full-body cotton suit. Makes the apocalypse a truly gentlemanly experience."
 msgstr ""
+"Ein körperbedeckender Baumwollanzug. Durchlebe die Apokalypse wie ein wahrer Gentleman."
 
 #: lang/json/json_items.py:1615
 msgid ""
 "A funnel used to collect rainwater. (a)ctivate it and place it outside then "
 "collect water from it when it rains."
 msgstr ""
+"Ein Trichter zum Sammeln von Regenwasser. Aktiviere ihn und platziere ihn "
+" außerhalb um Wasser zu sammeln wenn es regnet.
 
 #: lang/json/json_items.py:194
 msgid "A fur coat with a couple small pockets. Extremely warm."
