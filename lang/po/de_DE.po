@@ -403,6 +403,10 @@ msgid ""
 "rifle, but its high fire rate and powerful .308 ammunition have made it one "
 "of the most widely-used battle rifles in the world."
 msgstr ""
+"Ein Sturmgewehr welches in Belgien entwickelt wurde. Die FN FAL ist nicht sehr "
+"Treffsicher für ein Gewehr was ihre hohe Feuerrate und die kraftvolle .308 Munition "
+"wieder wettmachen. Deshalb zählt die FN FAL zu einem der meistverwendetsten "
+"Sturmgewehre der Welt."
 
 #: lang/json/json_items.py:1011
 msgid ""
@@ -454,7 +458,8 @@ msgid ""
 "A badge that detects radiation dosage sealed in a radiation-blocking bag.  "
 "Activate to remove from the bag."
 msgstr ""
-""
+"Dies ist eine Radioaktivitätsplakette die in einem Strahlungssicheren Beutel "
+"verstaut ist. Bei Verwendung wird sie aus dem Beutel geholt und ist somit akiv."
 
 #: lang/json/json_items.py:1234
 msgid "A bag of cheap, own-brand chips."
@@ -553,6 +558,11 @@ msgid ""
 "cause the bottle to break, spreading fire. The flame may go out shortly if "
 "you do not throw it. Dropping it while lit is not safe."
 msgstr ""
+"Eine Flasche gefüllt mit einer brennbaren Flüssigkeit und mit einem brennenden Lappen "
+"verschlossen. Die Flasche kann jetzt geworfen werden. Beim Aufprall der Flasche verteilen "
+"verteilt sich ihr Inhalt im umliegenden Gebiet und entflamme dieses. Der angezündete Lappen "
+"kann erlischen wenn die Flasche nicht geworfen wird. Vom Ablegen einer entzündeten Flasche "
+"ist aus sicherheitsgründen abzuraten."
 
 #: lang/json/json_items.py:1559
 msgid ""
@@ -560,12 +570,16 @@ msgid ""
 "rag; you will, of course, need a lighter in your inventory to do this. After "
 "lighting it, throw it to cause fires."
 msgstr ""
+"Eine Flasche gefüllt mit einer brennbaren Flüssigkeit und mit einem Lappen verschlossen. "
+"Benutze den Gegenstand um den Lappen zu entzünden. Du brauchst dazu natürlich ein Feuerzeug. "
+"Nachdem der Lappen entzunden ist, kann die Flasche geworfen werden um etwas zu entflammen."
 
 #: lang/json/json_items.py:1001
 msgid ""
 "A bow made from a single piece of wood. It is made specifically for the "
 "person using it."
 msgstr ""
+"Ein Bogen aus einem einzelnen Holzstück. Hergestellt speziell für die Person die ihn verwendet."
 
 #: lang/json/json_items.py:1004
 msgid ""
@@ -573,6 +587,9 @@ msgid ""
 "Arrows fired from this weapon have a good chance of remaining intact for re-"
 "use. It requires 10 strength to fire"
 msgstr ""
+"Ein Bogen hergestellt aus verschiedenen Materialien um mehr kinetische Abschussenergie zu erzeugen. "
+"Pfeile die mit diesem Bogen abgeschossen werden, haben eine gute Chance, intakt zum erneuten gebrauch, "
+"wieder geborgen werden zu können. Benötigt mindestens 10 Stärke um abgefeuert werden zu können."
 
 #: lang/json/json_items.py:1008
 msgid ""
@@ -605,101 +622,112 @@ msgstr ""
 
 #: lang/json/json_items.py:774
 msgid "A box of ball bearings, useful as ammunition for slings."
-msgstr ""
+msgstr "Eine Kiste mit Kugellagern, verwendbar als Munition für eine Steinschleuder."
 
 #: lang/json/json_items.py:772
 msgid "A box of nails, mainly useful with a hammer."
-msgstr ""
+msgstr "Eine Kiste mit Nägeln, hautpsächlich brauchbar mit einem Hammer."
 
 #: lang/json/json_items.py:775
 msgid "A box of small steel balls. They deal virtually no damage."
-msgstr ""
+msgstr "Eine Kiste mit kleinen Stahlkugeln. Sie verursachen so gut wie keinen Schaden."
 
 #: lang/json/json_items.py:621
 msgid "A broken laptop, basically a paperweight now"
-msgstr ""
+msgstr "Ein beschädigter Laptop, maximal noch als Briefbeschwerer verwendbar. "
 
 #: lang/json/json_items.py:1504
 msgid ""
 "A burnt-out lightstrip. You could disassemble this to recover the amplifier "
 "circuit."
 msgstr ""
+"Ein ausgebrannter Lichtstreifen. Du könntest ihn zerlegen um an die Verstärkerschaltung zu gelangen."
 
 #: lang/json/json_items.py:819
 msgid ""
 "A canister of hydrogen. With proper equipment, it could be heated to plasma."
 msgstr ""
+"Ein Kanister mit Wasserstoff. Mit der richtigen Ausrüstung könnte es mit genügend Hitze "
+"in Plasma umgewandelt werden."
 
 #: lang/json/json_items.py:590
 msgid "A cast-iron pan. Makes a decent melee weapon, and is used for cooking."
-msgstr ""
+msgstr "Eine gusseiserne Pfanne. Kann als brauchbare Nahkampfwaffe verwendet werden und "
+"bei Bedarf natürlich auch zum Kochen."
 
 #: lang/json/json_items.py:573
 msgid "A central processor unit, useful in advanced electronics crafting."
-msgstr ""
+msgstr "Eine zentrale Prozessoreinheit. Wird für dei Herstellung vortgeschrittener "
+"elektronischer Geräte verwendet."
 
 #: lang/json/json_items.py:623
 msgid "A ceramic dinner plate, you could probably play frisbee with it"
-msgstr ""
+msgstr "Ein Teller aus Keramik. Du könntest ihn als Frisbeescheige verwenden."
 
 #: lang/json/json_items.py:625
 msgid "A ceramic teacup, pinky out!"
-msgstr ""
+msgstr "Eine Teetasse aus Keramik. Den kleinen Finger abspreizen!"
 
 #: lang/json/json_items.py:576
 msgid ""
 "A circuit designed to amplify the strength of a signal. Useful in lots of "
 "electronics recipes."
-msgstr ""
+msgstr "Eine Schaltung um die Signalstäkre zu steigern. Brauchbar in einigen "
+"elektronischen Bauplänen."
 
 #: lang/json/json_items.py:577
 msgid ""
 "A circuit designed to repeat a signal. Useful for crafting communications "
 "equipment."
 msgstr ""
+"Eine Schaltung um ein Signal verstärkt weiterzuleiten. Wird zur Herstellung "
+"von Kommunikationsgeräten verwendet."
 
 #: lang/json/json_items.py:917
 msgid "A classic Soviet text on the art of attacking with a blade."
-msgstr ""
+msgstr "Ein klassischer Sovietischer text in der Kunst mit einem Messer zu Kämpfen."
 
 #: lang/json/json_items.py:937
 msgid ""
 "A classic text, \"The Structure and Interpretation of Computer Programs.\" "
 "Written with examples in LISP, but applicable to any language."
 msgstr ""
+""
 
 #: lang/json/json_items.py:935
 msgid "A college textbook on chemistry."
-msgstr ""
+msgstr "Ein Hochschulbuch über Chemie."
 
 #: lang/json/json_items.py:932
 msgid "A college textbook on circuit design."
-msgstr ""
+msgstr "Ein Hochschulbuch über Schaltungsentwicklung."
 
 #: lang/json/json_items.py:931
 msgid "A college textbook on computer science."
-msgstr ""
+msgstr "Ein Hochschulbuch über Computerwissenschaften."
 
 #: lang/json/json_items.py:933
 msgid "A college textbook on economics."
-msgstr ""
+msgstr "Ein Hochschulbuch über Ökonomie."
 
 #: lang/json/json_items.py:928
 msgid "A colorful book about tailoring."
-msgstr ""
+msgstr "Ein farbenfrohes Buch über Schneiderei."
 
 #: lang/json/json_items.py:601
 msgid "A colorful, hard ball. Essentially a rock."
-msgstr ""
+msgstr "Ein schattierter, harter Ball. In erster Linie ein Stein."
 
 #: lang/json/json_items.py:1625
 msgid ""
 "A combination lock box, breaking inside would destroy anything of value."
 msgstr ""
+"Eine, mit einem Kombinationsschloss, verschlossene Kiste. Sie aufzubrechen "
+"würde alles von Wert in ihr zerstören."
 
 #: lang/json/json_items.py:269
 msgid "A compact wool blanket that covers your most important body parts."
-msgstr ""
+msgstr "Eine kompakte Wolldecke welche bei Benutzung die wichtigsten Körperteile bedeckt."
 
 #: lang/json/json_items.py:1649
 msgid ""
@@ -707,22 +735,28 @@ msgid ""
 "battery draining attachment so the drill can be charged in lieu of mains "
 "power."
 msgstr ""
+"Ein kabelloser Bohrer mit einer Auswahl an Bohreinsätzen. Die Ladevorrichtung hat"
+"einen Aufsatz für Batterien und ist somit auch ohne einen 230V Anschluss aufladbar."
 
 #: lang/json/json_items.py:217
 msgid ""
 "A cotton bandana, worn over the mouth for warmth and minor protection from "
 "dust and other contaminants."
 msgstr ""
+"Ein Halstuch aus Baumwolle. Über den Mund getragen bietet es ein wenig "
+"Schutz vor Staub und anderen Schadstoffen."
 
 #: lang/json/json_items.py:1585
 msgid "A crude explosive device triggered by a piece of string."
-msgstr ""
+msgstr "Ein simpler explosiver Apparat welcher mit einer Schnur ausgelöst wird."
 
 #: lang/json/json_items.py:981
 msgid ""
 "A crude shaft made from wood. It needs arrowheads and fletching to become a "
 "functional arrow. You can, however, fire it from a bow."
 msgstr ""
+"Ein simpler Schaft aus Holz. Er benötigt einen Pfeilkopt und eine Befiederung "
+"um als Pfeil durchzugehen. Er kann allerdings auch jetzt schon abgeschossen werden."
 
 #: lang/json/json_items.py:1012
 msgid ""
@@ -730,68 +764,80 @@ msgid ""
 "10 bolts. Single bolt reload. Bolts fired from this weapon have a good "
 "chance of remaining intact for re-use."
 msgstr ""
+"Eine maßgeschneiderte, große mechanische Armbrust. Sie hat ein hölzernes Magazin "
+"welches 10 Bolzen hält. Bolzen müsseln einzeln nachgeladen werden. Abgefeuerte Bolzen "
+"habe eine gut Change intakt, zum erneuten Gebrauch, geborgen werden zu können."
 
 #: lang/json/json_items.py:228
 msgid ""
 "A dark pair of goggles. They make seeing very difficult, but protect you "
 "from bright flashes."
-msgstr ""
+msgstr "Eine Sonnenbrille. Sie macht es sehr schwer etwas zu sehen, schützt jedoch "
+"ausgezeichnet von grellen Blitzen."
 
 #: lang/json/json_items.py:563
 msgid "A dead plant. Good for starting fires."
-msgstr ""
+msgstr "Eine verdörrte Pflanze. Kann zum Anzünden eines Feuers verwendet werden."
 
 #: lang/json/json_items.py:1654
 msgid "A decent sized piece of cotton designed for medical purposes."
-msgstr ""
+msgstr "Ein großzügig geschnittenes Baumwolltuch. Für medizinische Zwecke geeignet."
 
 #: lang/json/json_items.py:1271
 msgid ""
 "A deformed human fetus, eating this would be very nasty, and cause your DNA "
 "to mutate."
 msgstr ""
+"Ein deformierter menschlicher Fötus. Ihn zu essen wäre extrem widerlich und "
+"würde deine DNA mutieren lassen."
 
 #: lang/json/json_items.py:1283
 msgid "A delicious baked pie with a sweet fruit filling."
-msgstr ""
+msgstr "Ein köstlicher gebackener Kuchen, gefüllt mit einer süßen Fruchtmischung."
 
 #: lang/json/json_items.py:1281
 msgid "A delicious baked potato. Got any sour cream?"
-msgstr ""
+msgstr "Eine köstliche gebackene Kartoffel. Wo ist der Sauerrahm wenn man ihn mal braucht?"
 
 #: lang/json/json_items.py:1264
 msgid "A dense, sweet creamy sauce, often used in curries."
-msgstr ""
+msgstr "Eine süße, cremige Sauce. Wird oft in Curry verwendet."
 
 #: lang/json/json_items.py:914
 msgid "A detective investigates an unusual murder in a secluded location."
-msgstr ""
+msgstr "Ein Detektiv geht einem ungewöhnlichen Mord in einer abgelegenen Villa nach."
 
 #: lang/json/json_items.py:1524
 msgid "A digging tool. Use it to dig pits adjacent to your location."
-msgstr ""
+msgstr "Ein Werkzeug zum Graden. Benutze es um Löcher auszuheben."
 
 #: lang/json/json_items.py:434
 msgid ""
 "A disposable light anti-tank rocket launcher. Once fired, it cannot be "
 "reloaded and must be disposed of."
 msgstr ""
+"Ein leichter panzerbrechener Einmalraketenwerfer. Einmal abgefeuert kann er nicht "
+"wieder nachgeladen werden."
 
 #: lang/json/json_items.py:591
 msgid "A dull knife, absolutely worthless in combat."
-msgstr ""
+msgstr "Ein stumpfes Messer. Komplett nutzlis in einem Gefecht."
 
 #: lang/json/json_items.py:1523
 msgid ""
 "A farming implement. Use it to turn tillable land into a slow-to-cross pile "
 "of dirt."
 msgstr ""
+"Ein landwirtschaftliches Hilfsmittel. Kann benutzt werden um Erde in einen "
+"schwer passierbaren Wall aufzuschütten."
 
 #: lang/json/json_items.py:610
 msgid ""
 "A fine glass pipe, with a bulb on the end, used for partaking of certain "
 "illicit substances."
 msgstr ""
+"Eine dünne Glaspfeife mit einer Auswölbung am hinteren Teil. Kann zur "
+"Einnahme diverser illegaler Substanzen verwendet werden."
 
 #: lang/json/json_items.py:1494
 msgid ""
@@ -799,12 +845,17 @@ msgid ""
 "and some string. Although it is constructed out of simple materials, it's "
 "slow and rather difficult to get a fire started with this tool."
 msgstr ""
+"Ein Feuerbohrer ist ein archaisches Gerät zum Feuermachen. Hergestellt aus 2 "
+"Holzstücken und ein wenig Schnur. Trotz der simplen Bauweise, kann es recht "
+"langsam und schwierig sein damit ein Feuer zu entfachen."
 
 #: lang/json/json_items.py:1568
 msgid ""
 "A firecracker that has been lit, the fuse is hissing. Throw it quickly "
 "before it explodes."
 msgstr ""
+"Ein angezündeter Knallfrosch mit zischender Lunte. Wirf ihn schnell "
+"weg bevor er explodiert."
 
 #: lang/json/json_items.py:1567
 msgid ""
@@ -812,24 +863,33 @@ msgid ""
 "need a lighter of course. Shortly after you light the fuse it will explode, "
 "so throw it quickly!"
 msgstr ""
+"Ein Knallfrosch mit einer kurzen Lunte. Benutze ihn um ihn anzuzünden, du brauchst "
+"dafür natürlich ein Feuerzeug. Kurz nach dem Anzüden explodiert er, also wirf "
+"ihn besser schnell weg!"
 
 #: lang/json/json_items.py:597
 msgid ""
 "A fist-sized eyeball with a cross-shaped pupil. It seems to be made of "
 "stone, but doesn't look like it was carved."
 msgstr ""
+"Ein Faustgroßer Augapfel mit einer Kreuzähnlichen Pupille. Es sieht aus als "
+"wäre es aus Stein gemacht aber anscheinend nicht gemeiselt."
 
 #: lang/json/json_items.py:260
 msgid ""
 "A flashy gold ring. You can wear it if you like, but it won't provide any "
 "effects."
 msgstr ""
+"Ein funkelnder goldener Ring. Du kannst ihn tragen wenn du wills, hat aber "
+"keine besonderen Auswirkungen auf dich."
 
 #: lang/json/json_items.py:1638
 msgid ""
 "A flattened stone affixed to a stick, works passably well as a shovel but "
 "really can't compare to a real shovel."
 msgstr ""
+"Ein falscher Stein welcher auf einen Stock gebunden wurde. Funktioniert einigermaßen "
+"als Schaufel, kann aber noch lange nicht mit einer richtigen mithalten."
 
 #: lang/json/json_items.py:1525
 msgid ""
@@ -3771,7 +3831,7 @@ msgid ""
 "Useful for crafting."
 msgstr ""
 "Dieser Apparat kann solare Strahlung in elektrische Energie umwandeln."
-"Kann zur Itemherstellung verwendet werden."
+"Kann zum herstellung von Gegenständen verwendet werden."
 
 #: lang/json/json_items.py:886
 msgid "Engineering 301"
@@ -8824,7 +8884,7 @@ msgstr "Geldbörse"
 
 #: lang/json/json_items.py:120
 msgid "radiation badge"
-msgstr "Radioaktivitätsabzeichen"
+msgstr "Radioaktivitätsplakette"
 
 #: lang/json/json_items.py:1351
 msgid "radio (off)"
@@ -9668,7 +9728,7 @@ msgstr "Wollsocken"
 
 #: lang/json/json_items.py:119
 msgid "wrapped radiation badge"
-msgstr "Eingewickeltes Radioaktivitätsplakette"
+msgstr "Verpackte Radioaktivitätsplakette"
 
 #: lang/json/json_items.py:1456
 msgid "wrench"
