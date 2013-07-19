@@ -1,4 +1,4 @@
-# German translations for Cataclysm-DDA package.
+﻿# German translations for Cataclysm-DDA package.
 # Copyright (C) 2013 CleverRaven and Cataclysm-DDA Contributors
 # This file is distributed under the same license as the Cataclysm-DDA package.
 # YOUR NAME <your@email.address>, 2013.
@@ -307,8 +307,8 @@ msgid ""
 "popular round in sub-machine guns."
 msgstr ""
 "Die 9 millimeter Parabellum wird generell als die wohl populärste Pistolen "
-"Munition gehandelt. Und findet ihren Einsatz im großteil der amerikanischen "
-"Polizei. Ausserdem ist sie sehr Populär in diversen Maschinengewehren."
+"Munition gehandelt. Sie findet ihren Einsatz im Großteil der amerikanischen "
+"Polizei. Ausserdem ist sie sehr populär in diversen Maschinengewehren."
 
 #: lang/json/json_items.py:704
 msgid "9mm"
@@ -349,7 +349,7 @@ msgid ""
 "A 40mm grenade with a flashbang load. It will detonate with a blast of light "
 "and sound, designed to blind, deafen, and disorient anyone nearby."
 msgstr ""
-"Eine 40mm Blendgranate die mit einem lauten Knall und sehr hellem Licht explodiert."
+"Eine 40mm Blendgranate, die mit einem lauten Knall und sehr hellem Licht explodiert."
 "Personen, die sich in der Nähe des Explosionsbereiches aufhalten, werden dabei "
 "kurzzeitig orientierungslos, da Seh- und Hörwahrnehmung stark beeinträchtigt werden."
 
@@ -358,14 +358,14 @@ msgid ""
 "A 40mm grenade with a small explosion and a high number of damaging "
 "fragments."
 msgstr ""
-"Eine 40mm Splittergranate mit einem kleinen Sprengradius aber einer "
-"großen Anzahl tötlicher absplitternder Teilfragmente."
+"Eine 40mm Splittergranate mit einem kleinen Sprengradius, aber einer "
+"großen Anzahl tödlicher absplitternder Teilfragmente."
 
 #: lang/json/json_items.py:812
 msgid ""
 "A 40mm grenade with a small napalm load, designed to create a burst of flame."
 msgstr ""
-"Eine 40mm Granate mit einer kleinen Napalmladung. Dazu entwicklet, um das "
+"Eine 40mm Granate mit einer kleinen Napalmladung. Dazu entwickelt, um das "
 "umliegende Gebiet bei Aufprall zu entzünden."
 
 #: lang/json/json_items.py:814
@@ -374,8 +374,8 @@ msgid ""
 "and will also leave a streak of smoke cover in its wake."
 msgstr ""
 "Eine 40mm Rauchgranate die eine starke Rauch- oder Nebelentwicklung erzeugt "
-"und als Rauch- oder Signalmittel eingesetzt wird. Die Ladung brennt, unter "
-"einer starken Rauchentwicklung, langsam ab."
+"und als Rauch- oder Signalmittel eingesetzt wird. Die Ladung brennt unter "
+"einer starken Rauchentwicklung langsam ab."
 
 #: lang/json/json_items.py:813
 msgid ""
@@ -394,8 +394,8 @@ msgid ""
 "A 60mm High Explosive Anti Tank round. They can blow through up to two feet "
 "of concrete."
 msgstr ""
-"Eine 60mm hochexplosives und panzerbrechendes Projektil. Kann eine Betonwand, "
-"mit bis zu 60cm dicke, durchbrechen."
+"Eine 60mm hochexplosives und panzerbrechendes Projektil. Kann eine Betonwand "
+"mit bis zu 60cm dicke durchbrechen."
 
 #: lang/json/json_items.py:417
 msgid ""
@@ -403,8 +403,8 @@ msgid ""
 "rifle, but its high fire rate and powerful .308 ammunition have made it one "
 "of the most widely-used battle rifles in the world."
 msgstr ""
-"Ein Sturmgewehr welches in Belgien entwickelt wurde. Die FN FAL ist nicht sehr "
-"Treffsicher für ein Gewehr was ihre hohe Feuerrate und die kraftvolle .308 Munition "
+"Ein Sturmgewehr, welches in Belgien entwickelt wurde. Die FN FAL ist nicht sehr "
+"treffsicher für ein Gewehr, was ihre hohe Feuerrate und die kraftvolle .308 Munition "
 "wieder wettmachen. Deshalb zählt die FN FAL zu einem der meistverwendetsten "
 "Sturmgewehre der Welt."
 
@@ -416,7 +416,7 @@ msgid ""
 "remaining intact for re-use."
 msgstr ""
 "Eine enorm große und sehr langsam nachladbare mittelalterliche Armbrust aus "
-"Deutschland. Die Sehne steht unter sehr hohen Zug, sodass nach dem abfeuern "
+"Deutschland. Die Sehne steht unter sehr hohen Zug, sodass nach dem Abfeuern "
 "ein beträchtlicher Rückstoß spürbar ist. Ungeübte Schützen werden größere "
 "Schwierigkeiten beim Nachladen der Armbrust feststellen. Abgeschossene Bolzen "
 "haben eine hohe Wahrscheinlichkeit intakt geborgen werden zu können."
@@ -426,7 +426,7 @@ msgid ""
 "A King Size(tm) industrial strength permanent marker, about halfway between "
 "a typical marker and a can of spray paint in size."
 msgstr ""
-"Ein King Size(tm) superstarker industrie Filzstift. Er ist in etwa halb so "
+"Ein King Size(tm) superstarker Industriefilzstift. Er ist in etwa halb so "
 "groß wie eine Farbsprühdose."
 
 #: lang/json/json_items.py:1623
@@ -434,8 +434,8 @@ msgid ""
 "A Locksmith's set of sturdy steel picklocks, essential for silently and "
 "quickly opening locks."
 msgstr ""
-"Ein Sortiment von stahl Dietrichen wie sie von Schlossern verwendet werden. "
-"Sie eignen sich hervorragend für leises und sehr schnelles öffnen von Schlössern."
+"Ein Sortiment von Stahldietrichen, wie sie von Schlossern verwendet werden. "
+"Sie eignen sich hervorragend für leises und sehr schnelles Öffnen von Schlössern."
 
 #: lang/json/json_items.py:1618
 msgid ""
@@ -451,7 +451,7 @@ msgstr "Eine Red Sox Kappe. Sie bietet ein kleines bischen Wärme wenn getragen.
 
 #: lang/json/json_items.py:600
 msgid "A USB thumb drive. Useful for holding software."
-msgstr "Ein USB-Stick. Hilfreich zum speichern von Software."
+msgstr "Ein USB-Stick. Hilfreich zum Speichern von Software."
 
 #: lang/json/json_items.py:263
 msgid ""
