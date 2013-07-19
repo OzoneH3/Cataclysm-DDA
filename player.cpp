@@ -1877,9 +1877,7 @@ which require brute force.");
     mvwprintz(w_stats, 6, 2, c_magenta, "Melee to-hit bonus: +%d                      ",
              base_to_hit(false));
     mvwprintz(w_stats, 7, 2, c_magenta, "                                            ");
-    mvwprintz(w_stats, 7, 2, c_magenta, "Ranged %s: %s%d",
-              (ranged_dex_mod(false) <= 0 ? "bonus" : "penalty"),
-             (ranged_dex_mod(false) <= 0 ? "+" : "-"),
+    mvwprintz(w_stats, 7, 2, c_magenta, "Ranged penalty: -%d",
              abs(ranged_dex_mod(false)));
     mvwprintz(w_stats, 8, 2, c_magenta, "                                            ");
     mvwprintz(w_stats, 8, 2, c_magenta, "Throwing %s: %s%d",
@@ -1905,9 +1903,7 @@ can pick up from reading a book.");
    } else if (line == 3) {
     mvwprintz(w_stats, 5, 2, h_ltgray, "Perception:");
 
-       mvwprintz(w_stats, 6, 2,  c_magenta, "Ranged %s: %s%d",
-             (ranged_per_mod(false) <= 0 ? "bonus" : "penalty"),
-             (ranged_per_mod(false) <= 0 ? "+" : "-"),
+       mvwprintz(w_stats, 6, 2,  c_magenta, "Ranged penalty: -%d",
              abs(ranged_per_mod(false)),"          ");
     mvwprintz(w_stats, 7, 2, c_magenta, "Trap dection level: %d       ",
              per_cur);
@@ -6934,11 +6930,12 @@ bool player::can_sleep(game *g)
  const trap_id trap_at_pos = g->m.tr_at(posx, posy);
  const ter_id ter_at_pos = g->m.ter(posx, posy);
  const furn_id furn_at_pos = g->m.furn(posx, posy);
- if ((veh && veh->part_with_feature (vpart, vpf_seat) >= 0) ||
+ if ((veh && veh->part_with_feature (vpart, vpf_bed) >= 0) ||
      furn_at_pos == f_makeshift_bed || trap_at_pos == tr_cot ||
      furn_at_pos == f_sofa)
   sleepy += 4;
- else if (trap_at_pos == tr_rollmat || furn_at_pos == f_armchair)
+ else if ((veh && veh->part_with_feature (vpart, vpf_seat) >= 0) ||
+      trap_at_pos == tr_rollmat || furn_at_pos == f_armchair)
   sleepy += 3;
  else if (furn_at_pos == f_bed)
   sleepy += 5;
