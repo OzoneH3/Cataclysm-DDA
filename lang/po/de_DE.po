@@ -486,7 +486,7 @@ msgid ""
 "A baseball bat with several nails driven through it, an excellent melee "
 "weapon."
 msgstr ""
-"Ein Baseballschläger dessen Spitze mit Nägeln gespickt ist. Er stellt eine "
+"Ein Baseballschläger, dessen Spitze mit Nägeln gespickt ist. Er stellt eine "
 exzellente Nahkampfwaffe dar."
 
 #: lang/json/json_items.py:279
@@ -500,7 +500,7 @@ msgstr ""
 
 #: lang/json/json_items.py:927
 msgid "A basic manual of electronics and circuit design."
-msgstr "Eine einfache Lehrbuch für Elektronik und Schaltungstechnik."
+msgstr "Ein einfaches Lehrbuch für Elektronik und Schaltungstechnik."
 
 #: lang/json/json_items.py:989
 msgid ""
@@ -508,9 +508,9 @@ msgid ""
 "light-weight, does some damage, and is so-so on accuracy. Stands a good "
 "chance of remaining intact once fired."
 msgstr ""
-"Ein einfacher hölzerner Pfeil. Versehen mit einem metallischen Pfeilkopf "
+"Ein einfacher hölzerner Pfeil, versehen mit einem metallischen Pfeilkopf "
 "und Befiederung. Durch sein geringes Gewicht ist der potentielle Schaden "
-"eher gering und genauigkeit liegt im mittelbereich. Er hat ausserdem eine "
+"eher gering und Genauigkeit liegt im Mittelbereich. Er hat außerdem eine "
 "erhöhte Wahrscheinlichtkeit nach dem Abfeuern noch intakt zu sein."
 
 #: lang/json/json_items.py:1702
@@ -519,14 +519,14 @@ msgid ""
 "shotgun, sub-machinegun or rifle, allowing a melee attack to deal piercing "
 "damage. The added length increases recoil slightly."
 msgstr ""
-"Ein Bajonett ist eine Stichwaffe die als Aufsatz an der Spitze einer Schrotflinte, "
+"Ein Bajonett ist eine Stichwaffe, die als Aufsatz an der Spitze einer Schrotflinte, "
 "einer Maschinenpistole oder einem Gewehr montiert werden kann. Bei einem Nahkampf "
 "wird somit Stichschaden verursacht. Die erhöhte Waffenlänge steigert den Rückstoß "
 "geringfügig."
 
 #: lang/json/json_items.py:907
 msgid "A biannual magazine devoted to discus throw."
-msgstr "Ein Magazin welches sich mit dem Werfen verschiedenster Objekte widmet."
+msgstr "Ein Magazin, welches sich mit dem Werfen verschiedenster Objekte widmet."
 
 #: lang/json/json_items.py:1241
 msgid "A big bag of peanut butter cups... your favorite!"
@@ -559,9 +559,9 @@ msgid ""
 "you do not throw it. Dropping it while lit is not safe."
 msgstr ""
 "Eine Flasche gefüllt mit einer brennbaren Flüssigkeit und mit einem brennenden Lappen "
-"verschlossen. Die Flasche kann jetzt geworfen werden. Beim Aufprall der Flasche verteilen "
-"verteilt sich ihr Inhalt im umliegenden Gebiet und entflamme dieses. Der angezündete Lappen "
-"kann erlischen wenn die Flasche nicht geworfen wird. Vom Ablegen einer entzündeten Flasche "
+"verschlossen. Die Flasche kann jetzt geworfen werden. Beim Aufprall der Flasche "
+"verteilt sich ihr Inhalt im umliegenden Gebiet und entflammt dieses. Der angezündete Lappen "
+"kann erlöschen, wenn die Flasche nicht geworfen wird. Vom Ablegen einer entzündeten Flasche "
 "ist aus sicherheitsgründen abzuraten."
 
 #: lang/json/json_items.py:1559
@@ -657,7 +657,7 @@ msgstr "Eine gusseiserne Pfanne. Kann als brauchbare Nahkampfwaffe verwendet wer
 
 #: lang/json/json_items.py:573
 msgid "A central processor unit, useful in advanced electronics crafting."
-msgstr "Eine zentrale Prozessoreinheit. Wird für dei Herstellung vortgeschrittener "
+msgstr "Eine zentrale Prozessoreinheit. Wird für die Herstellung vortgeschrittener "
 "elektronischer Geräte verwendet."
 
 #: lang/json/json_items.py:623
