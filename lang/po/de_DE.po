@@ -571,8 +571,8 @@ msgid ""
 "lighting it, throw it to cause fires."
 msgstr ""
 "Eine Flasche gefüllt mit einer brennbaren Flüssigkeit und mit einem Lappen verschlossen. "
-"Benutze den Gegenstand um den Lappen zu entzünden. Du brauchst dazu natürlich ein Feuerzeug. "
-"Nachdem der Lappen entzunden ist, kann die Flasche geworfen werden um etwas zu entflammen."
+"Benutze den Gegenstand, um den Lappen zu entzünden. Du brauchst dazu natürlich ein Feuerzeug. "
+"Nachdem der Lappen entzunden ist, kann die Flasche geworfen werden, um etwas zu entflammen."
 
 #: lang/json/json_items.py:1001
 msgid ""
@@ -587,9 +587,9 @@ msgid ""
 "Arrows fired from this weapon have a good chance of remaining intact for re-"
 "use. It requires 10 strength to fire"
 msgstr ""
-"Ein Bogen hergestellt aus verschiedenen Materialien um mehr kinetische Abschussenergie zu erzeugen. "
-"Pfeile die mit diesem Bogen abgeschossen werden, haben eine gute Chance, intakt zum erneuten gebrauch, "
-"wieder geborgen werden zu können. Benötigt mindestens 10 Stärke um abgefeuert werden zu können."
+"Ein Bogen ,hergestellt aus verschiedenen Materialien, um mehr kinetische Abschussenergie zu erzeugen. "
+"Pfeile die mit diesem Bogen abgeschossen werden, haben eine gute Chance, intakt zum erneuten Gebrauch, "
+"wieder geborgen werden zu können. Benötigt mindestens 10 Stärke, um abgefeuert werden zu können."
 
 #: lang/json/json_items.py:1008
 msgid ""
@@ -641,7 +641,7 @@ msgid ""
 "A burnt-out lightstrip. You could disassemble this to recover the amplifier "
 "circuit."
 msgstr ""
-"Ein ausgebrannter Lichtstreifen. Du könntest ihn zerlegen um an die Verstärkerschaltung zu gelangen."
+"Ein ausgebrannter Lichtstreifen. Du könntest ihn zerlegen, um an die Verstärkerschaltung zu gelangen."
 
 #: lang/json/json_items.py:819
 msgid ""
@@ -672,7 +672,7 @@ msgstr "Eine Teetasse aus Keramik. Den kleinen Finger abspreizen!"
 msgid ""
 "A circuit designed to amplify the strength of a signal. Useful in lots of "
 "electronics recipes."
-msgstr "Eine Schaltung um die Signalstäkre zu steigern. Brauchbar in einigen "
+msgstr "Eine Schaltung, um die Signalstäkre zu steigern. Brauchbar in einigen "
 "elektronischen Bauplänen."
 
 #: lang/json/json_items.py:577
@@ -680,7 +680,7 @@ msgid ""
 "A circuit designed to repeat a signal. Useful for crafting communications "
 "equipment."
 msgstr ""
-"Eine Schaltung um ein Signal verstärkt weiterzuleiten. Wird zur Herstellung "
+"Eine Schaltung, um ein Signal verstärkt weiterzuleiten. Wird zur Herstellung "
 "von Kommunikationsgeräten verwendet."
 
 #: lang/json/json_items.py:917
@@ -755,7 +755,7 @@ msgid ""
 "A crude shaft made from wood. It needs arrowheads and fletching to become a "
 "functional arrow. You can, however, fire it from a bow."
 msgstr ""
-"Ein simpler Schaft aus Holz. Er benötigt einen Pfeilkopt und eine Befiederung "
+"Ein simpler Schaft aus Holz. Er benötigt einen Pfeilkopt und eine Befiederung, "
 "um als Pfeil durchzugehen. Er kann allerdings auch jetzt schon abgeschossen werden."
 
 #: lang/json/json_items.py:1012
@@ -809,7 +809,7 @@ msgstr "Ein Detektiv geht einem ungewöhnlichen Mord in einer abgelegenen Villa 
 
 #: lang/json/json_items.py:1524
 msgid "A digging tool. Use it to dig pits adjacent to your location."
-msgstr "Ein Werkzeug zum Graben. Benutze es um Löcher auszuheben."
+msgstr "Ein Werkzeug zum Graben. Benutze es, um Löcher auszuheben."
 
 #: lang/json/json_items.py:434
 msgid ""
@@ -828,7 +828,7 @@ msgid ""
 "A farming implement. Use it to turn tillable land into a slow-to-cross pile "
 "of dirt."
 msgstr ""
-"Ein landwirtschaftliches Hilfsmittel. Kann benutzt werden um Erde in einen "
+"Ein landwirtschaftliches Hilfsmittel. Kann benutzt werden, um Erde in einen "
 "schwer passierbaren Wall aufzuschütten."
 
 #: lang/json/json_items.py:610
@@ -863,7 +863,7 @@ msgid ""
 "need a lighter of course. Shortly after you light the fuse it will explode, "
 "so throw it quickly!"
 msgstr ""
-"Ein Knallfrosch mit einer kurzen Lunte. Benutze ihn um ihn anzuzünden, du brauchst "
+"Ein Knallfrosch mit einer kurzen Lunte. Benutze ihn, um ihn anzuzünden, du brauchst "
 "dafür natürlich ein Feuerzeug. Kurz nach dem Anzüden explodiert er, also wirf "
 "ihn besser schnell weg!"
 
@@ -974,7 +974,7 @@ msgid ""
 "collect water from it when it rains."
 msgstr ""
 "Ein Trichter zum Sammeln von Regenwasser. Aktiviere ihn und platziere ihn "
-"außerhalb um Wasser zu sammeln wenn es regnet."
+"außerhalb, um Wasser zu sammeln, wenn es regnet."
 
 #: lang/json/json_items.py:194
 msgid "A fur coat with a couple small pockets. Extremely warm."
@@ -4036,7 +4036,7 @@ msgstr "Frischgekochte Nudeln. Schmecken nach nichts aber machen satt."
 
 #: lang/json/json_items.py:1172
 msgid "Fresh, clean water. Truly the best thing to quench your thirst."
-msgstr "Frisches klares Wasser. Wohl das beste Getränk um deinen Durst zu löschen."
+msgstr "Frisches klares Wasser. Wohl das beste Getränk, um deinen Durst zu löschen."
 
 #: lang/json/json_items.py:1222
 msgid "Freshly butchered from a human body."
@@ -5447,7 +5447,7 @@ msgstr "OBERKÖRPER: "
 
 #: lang/json/json_items.py:1302
 msgid "Take frequently to improve your immune system."
-msgstr "Benutze diese regelmäßig um dein Immunsystem zu stärken."
+msgstr "Benutze diese regelmäßig, um dein Immunsystem zu stärken."
 
 #: lang/json/json_items.py:1246
 msgid "Tasty juicy berry, often found growing wild in fields."
@@ -6190,7 +6190,7 @@ msgid ""
 "to expell a thick black smoke. This smoke will slow those who enter it, as "
 "well as obscuring vision and scent."
 msgstr ""
-"Aktiviere den Gegenstand um den Splint zu ziehen. "
+"Aktiviere den Gegenstand, um den Splint zu ziehen. "
 
 #: lang/json/json_items.py:589
 msgid "Useful for boiling water when cooking spaghetti and more."
@@ -6249,7 +6249,7 @@ msgid ""
 "Using this radio turns it on. It will pick up any nearby signals being "
 "broadcast and play them audibly."
 msgstr ""
-"Aktiviere dieses Radio um Signale in der näheren Umgebung zu empfangen."
+"Aktiviere dieses Radio, um Signale in der näheren Umgebung zu empfangen."
 
 #: lang/json/json_items.py:324
 msgid "Uzi 9mm"
@@ -6272,19 +6272,19 @@ msgid ""
 "Vacuum packed apple slices in plastic packaging..  Activate to open and "
 "enjoy."
 msgstr ""
-"In Plastikbeutel vakuumierte Apfelstücke. Aktivieren um sie zu Öffnen und zu Genießen."
+"In Plastikbeutel vakuumierte Apfelstücke. Aktivieren, um sie zu öffnen und zu genießen."
 
 #: lang/json/json_items.py:1651
 msgid ""
 "Vacuum packed meat slices in plastic packaging.  Activate to open and enjoy."
 msgstr ""
-"In Plastikbeutel vakuumierte Fleischstücke. Aktivieren um sie zu Öffnen und zu Genießen."
+"In Plastikbeutel vakuumierte Fleischstücke. Aktivieren, um sie zu öffnen und zu genießen."
 
 #: lang/json/json_items.py:1652
 msgid ""
 "Vacuum packed veggy chunks in plastic packaging.  Activate to open and enjoy."
 msgstr ""
-"In Plastikbeutel vakuumierte Gemüsestücke. Aktivieren um sie zu Öffnen und zu Genießen."
+"In Plastikbeutel vakuumierte Gemüsestücke. Aktivieren, um sie zu öffnen und zu genießen."
 
 #: lang/json/json_items.py:1296
 msgid ""
@@ -6476,7 +6476,7 @@ msgid ""
 "With enough electronics skill, you could attach this to your devices to "
 "increase their battery capacity."
 msgstr ""
-"Mit genügen elektronik Erfahrung könntest du diesen Gegenstand dazu benutzen "
+"Mit genügen elektronik Erfahrung könntest du diesen Gegenstand dazu benutzen, "
 "um die Batterikapazität diverser Geräte zu erhöhen."
 
 #: lang/json/json_items.py:1430
@@ -6682,7 +6682,7 @@ msgstr "Du wirfst und drehst dich umher in der Hitze."
 
 #: disease.cpp:577
 msgid "You toss and turn trying to keep warm."
-msgstr "Du wirfst und drehst dich umher um warm zu bleiben."
+msgstr "Du wirfst und drehst dich umher, um warm zu bleiben."
 
 #: disease.cpp:532
 msgid "You try to sleep, but can't..."
@@ -6875,8 +6875,8 @@ msgstr "Dein Gesicht ist steif von der Kälte."
 
 #: disease.cpp:1509
 msgid "Your face is sweating from the heat, making it hard to see."
-msgstr "Dein Gesicht schwitzt von der Hitze. Schweißtropfen die in deine Augen "
-"tropfen machen es schwer etwas zu sehen."
+msgstr "Dein Gesicht schwitzt von der Hitze. Schweißtropfen, die in deine Augen "
+"tropfen, machen es schwer etwas zu sehen."
 
 #: disease.cpp:1510
 msgid "Your face is sweating profusely, making it hard to see."
@@ -7108,7 +7108,7 @@ msgid ""
 "condition, and deals massive damage."
 msgstr ""
 "Dein nächster Angriff ist ein Schlangangriff. Dazu müssen beide deiner Arme "
-"in guter Kondition sein um extra Schaden zu verursachen."
+"in guter Kondition sein, um extra Schaden zu verursachen."
 
 #: disease.cpp:1660
 msgid ""
@@ -8580,7 +8580,7 @@ msgstr "Pizza mit Fleisch"
 
 #: lang/json/json_items.py:1082
 msgid "meat sandwich"
-msgstr "Sandwitch mit Fleisch"
+msgstr "Sandwich mit Fleisch"
 
 #: lang/json/json_items.py:1027
 msgid "meat soup"
