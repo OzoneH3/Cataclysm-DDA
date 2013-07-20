@@ -1048,7 +1048,6 @@ msgstr ""
 "Eine Kopfbedeckung aus Hartplastik, die auf Baustellen getragen wird. "
 "Bietet exzellenten Schutz vor Stichwunden und Erschütterungen."
 
-
 #: lang/json/json_items.py:244
 msgid ""
 "A hard plastic helmet that covers the head and ears. Designed to protect "
@@ -1056,7 +1055,6 @@ msgid ""
 msgstr ""
 "Ein Helm aus Hartplastik, der deinen Kopf und deine Ohren bedeckt. Entwickelt, "
 "um den Kopf vor Basebällen zu schützen."
-
 
 #: lang/json/json_items.py:658
 msgid ""
@@ -1080,30 +1078,35 @@ msgstr ""
 
 #: lang/json/json_items.py:616
 msgid "A heating element, like the ones used in hotplates or kettles."
-msgstr "Ein Heizkörper, wie der in Heizplatten oder Teekesseln."
+msgstr "Ein Heizkörper (wie der in Heizplatten oder Teekesseln)."
 
 #: lang/json/json_items.py:1643
 msgid ""
 "A heatpack, used to treat sports injuries and heat food.  This one has been "
 "used already and is now useless."
 msgstr ""
+"Eine Hitzepackung, welche zum Behandeln von Sportverletzungen oder zum Erhitzen "
+"von Nahrungsmitteln genutzt wird. Allerdings wurde dieses Exemplar schon "
+"verwendet und ist nun nutzlos."
 
 #: lang/json/json_items.py:1642
 msgid ""
 "A heatpack, used to treat sports injuries and heat food.  Usable only once."
 msgstr ""
+"Eine Hitzepackung, welche zum Behandeln von Sportverletzungen oder zum Erhitzen "
+"von Nahrungsmitteln genutzt wird. Kann nur einmal verwendet werden."
 
 #: lang/json/json_items.py:187
 msgid "A heavy bulletproof vest. The best protection from cuts and bullets."
-msgstr ""
+msgstr "Eine kugelsichere Weste. Der beste Schutz gegen Stich- und Schussverletzungen."
 
 #: lang/json/json_items.py:274
 msgid "A heavy cloak that is thrown over your body."
-msgstr ""
+msgstr "Ein schwerer Umhang, der über deinen Körper geworfen wird."
 
 #: lang/json/json_items.py:195
 msgid "A heavy cotton coat. Cumbersome, but warm and with deep pockets."
-msgstr ""
+msgstr "Ein schwerer Baumwollmantel. Beschwerlich, aber warm und mit großen Taschen."
 
 #: lang/json/json_items.py:284
 msgid "A heavy duty hauling frame designed to interface with power armor."
@@ -1111,28 +1114,33 @@ msgstr ""
 
 #: lang/json/json_items.py:268
 msgid "A heavy fur blanket that covers most of your body."
-msgstr ""
+msgstr "Eine schwere Pelzdecke, die den Großteil deines Körpers bedeckt."
 
 #: lang/json/json_items.py:275
 msgid "A heavy fur cloak that is thrown over your body."
-msgstr ""
+msgstr "Ein schwerer Pelzmhang, der über deinen Körper geworfen wird."
 
 #: lang/json/json_items.py:245
 msgid ""
 "A heavy helmet that provides excellent protection from all sorts of damage."
 msgstr ""
+"Ein schwerer Helm, der exzellenten Schutz vor vielen Schadensarten bietet."
 
 #: lang/json/json_items.py:586
 msgid ""
 "A heavy iron disc that typically covers a ladder into the sewers. Lifting it "
 "from the manhole is impossible without a crowbar."
 msgstr ""
+"Ein schwerer Kanaldeckel, der typischerweise die Leiter in die Kanalisation "
+"bedeckt. Es ist unmöglich, ihn ohne ein Brecheisen hochzuheben."
 
 #: lang/json/json_items.py:276
 msgid ""
 "A heavy leather cloak that is thrown over your body. Provides decent "
 "protection"
 msgstr ""
+"Ein schwerer Ledermantel, der über deinen Körper geworfen wird. Er "
+"bietet ordentlichen Schutz."
 
 #: lang/json/json_items.py:779
 msgid ""
@@ -1145,24 +1153,35 @@ msgstr ""
 msgid ""
 "A heavy pair of leather gloves, used by firefighters for heat protection."
 msgstr ""
+"Ein schweres Paar Lederhandschuhe, welche von Feuerwehrmännern zum Schutz "
+"vor extremer Hitze genutzt werden."
 
 #: lang/json/json_items.py:983
 msgid ""
 "A heavy shaft made from scrap metal. It needs arrowheads and fletching to "
 "become a functional arrow. You can, however, fire it from a bow."
 msgstr ""
+"Ein schwerer Pfeilschaft, der aus Altmetall hergestellt wurde. Er muss noch "
+"mit einer Pfeilspitze versehen und befiedert werden, um als Pfeil gelten zu "
+"können, kann allerdings jetzt schon mithilfe eines Bogens abgefeuert werden."
 
 #: lang/json/json_items.py:982
 msgid ""
 "A heavy shaft made from wood. It needs arrowheads and fletching to become a "
 "functional arrow. You can, however, fire it from a bow."
 msgstr ""
+"Ein schwerer Pfeilschaft, der aus Holz hergestellt wurde. Er muss noch "
+"mit einer Pfeilspitze versehen und befiedert werden, um als Pfeil gelten zu "
+"können, kann allerdings jetzt schon mithilfe eines Bogens abgefeuert werden."
 
 #: lang/json/json_items.py:641
 msgid ""
 "A heavy steel chain. Useful as a weapon, or for crafting. It has a chance to "
 "wrap around your target, allowing for a bonus unarmed attack."
 msgstr ""
+"Eine schwere Stahlkette. Kann als Waffe oder zum Fertigen von anderen Gegen- "
+"ständen genutzt werden. Sie kann sich um dein Ziel wickeln, was einen "
+"zusätzliche Faustangriff ermöglicht."
 
 #: lang/json/json_items.py:992
 msgid ""
@@ -1171,20 +1190,26 @@ msgid ""
 "is more stable in flight, resulting in better accuracy over a longer range. "
 "Stands a very good chance of remaining intact once fired."
 msgstr ""
+"Ein schwerer Holzpfeil mit einem Pfeilspitze aus Metall und einigen Federn. "
+"Er ist um einiges schwerer als andere Holzpfeile, wodurch er mehr Schaden "
+"verursacht und eine stabilere Flugbahn besitzt, was die Genauigkeit erhöht. "
+"Es ist wahrscheinlich, dass er nach dem Feuern intakt bleibt."
 
 #: lang/json/json_items.py:165
 msgid "A hefty pair of fur-lined pants."
-msgstr ""
+msgstr "Eine kräftige, pelzgefütterte Hose."
 
 #: lang/json/json_items.py:248
 msgid ""
 "A helmet made from the exoskeletons of insects. Covers the entire head; very "
 "light and durable."
 msgstr ""
+"Ein Helm, der aus dem Außenskelett von Insekten gefertigt wurde. Bedeckt den "
+"gesamten Kopf; sehr leicht und beständig."
 
 #: lang/json/json_items.py:246
 msgid "A helmet with a plastic shield that covers your entire face."
-msgstr ""
+msgstr "Ein Helm mit einem Schild aus Plastik, welches dein gesamtes Gesicht bedeckt."
 
 #: lang/json/json_items.py:247
 msgid ""
