@@ -1,4 +1,4 @@
-# German translations for Cataclysm-DDA package.
+﻿# German translations for Cataclysm-DDA package.
 # Copyright (C) 2013 CleverRaven and Cataclysm-DDA Contributors
 # This file is distributed under the same license as the Cataclysm-DDA package.
 # YOUR NAME <your@email.address>, 2013.
@@ -307,8 +307,8 @@ msgid ""
 "popular round in sub-machine guns."
 msgstr ""
 "Die 9 millimeter Parabellum wird generell als die wohl populärste Pistolen "
-"Munition gehandelt. Und findet ihren Einsatz im großteil der amerikanischen "
-"Polizei. Ausserdem ist sie sehr Populär in diversen Maschinengewehren."
+"Munition gehandelt. Sie findet ihren Einsatz im Großteil der amerikanischen "
+"Polizei. Ausserdem ist sie sehr populär in diversen Maschinengewehren."
 
 #: lang/json/json_items.py:704
 msgid "9mm"
@@ -349,7 +349,7 @@ msgid ""
 "A 40mm grenade with a flashbang load. It will detonate with a blast of light "
 "and sound, designed to blind, deafen, and disorient anyone nearby."
 msgstr ""
-"Eine 40mm Blendgranate die mit einem lauten Knall und sehr hellem Licht explodiert."
+"Eine 40mm Blendgranate, die mit einem lauten Knall und sehr hellem Licht explodiert."
 "Personen, die sich in der Nähe des Explosionsbereiches aufhalten, werden dabei "
 "kurzzeitig orientierungslos, da Seh- und Hörwahrnehmung stark beeinträchtigt werden."
 
@@ -358,14 +358,14 @@ msgid ""
 "A 40mm grenade with a small explosion and a high number of damaging "
 "fragments."
 msgstr ""
-"Eine 40mm Splittergranate mit einem kleinen Sprengradius aber einer "
-"großen Anzahl tötlicher absplitternder Teilfragmente."
+"Eine 40mm Splittergranate mit einem kleinen Sprengradius, aber einer "
+"großen Anzahl tödlicher absplitternder Teilfragmente."
 
 #: lang/json/json_items.py:812
 msgid ""
 "A 40mm grenade with a small napalm load, designed to create a burst of flame."
 msgstr ""
-"Eine 40mm Granate mit einer kleinen Napalmladung. Dazu entwicklet, um das "
+"Eine 40mm Granate mit einer kleinen Napalmladung. Dazu entwickelt, um das "
 "umliegende Gebiet bei Aufprall zu entzünden."
 
 #: lang/json/json_items.py:814
@@ -374,8 +374,8 @@ msgid ""
 "and will also leave a streak of smoke cover in its wake."
 msgstr ""
 "Eine 40mm Rauchgranate die eine starke Rauch- oder Nebelentwicklung erzeugt "
-"und als Rauch- oder Signalmittel eingesetzt wird. Die Ladung brennt, unter "
-"einer starken Rauchentwicklung, langsam ab."
+"und als Rauch- oder Signalmittel eingesetzt wird. Die Ladung brennt unter "
+"einer starken Rauchentwicklung langsam ab."
 
 #: lang/json/json_items.py:813
 msgid ""
@@ -394,8 +394,8 @@ msgid ""
 "A 60mm High Explosive Anti Tank round. They can blow through up to two feet "
 "of concrete."
 msgstr ""
-"Eine 60mm hochexplosives und panzerbrechendes Projektil. Kann eine Betonwand, "
-"mit bis zu 60cm dicke, durchbrechen."
+"Eine 60mm hochexplosives und panzerbrechendes Projektil. Kann eine Betonwand "
+"mit bis zu 60cm dicke durchbrechen."
 
 #: lang/json/json_items.py:417
 msgid ""
@@ -403,8 +403,8 @@ msgid ""
 "rifle, but its high fire rate and powerful .308 ammunition have made it one "
 "of the most widely-used battle rifles in the world."
 msgstr ""
-"Ein Sturmgewehr welches in Belgien entwickelt wurde. Die FN FAL ist nicht sehr "
-"Treffsicher für ein Gewehr was ihre hohe Feuerrate und die kraftvolle .308 Munition "
+"Ein Sturmgewehr, welches in Belgien entwickelt wurde. Die FN FAL ist nicht sehr "
+"treffsicher für ein Gewehr, was ihre hohe Feuerrate und die kraftvolle .308 Munition "
 "wieder wettmachen. Deshalb zählt die FN FAL zu einem der meistverwendetsten "
 "Sturmgewehre der Welt."
 
@@ -416,7 +416,7 @@ msgid ""
 "remaining intact for re-use."
 msgstr ""
 "Eine enorm große und sehr langsam nachladbare mittelalterliche Armbrust aus "
-"Deutschland. Die Sehne steht unter sehr hohen Zug, sodass nach dem abfeuern "
+"Deutschland. Die Sehne steht unter sehr hohen Zug, sodass nach dem Abfeuern "
 "ein beträchtlicher Rückstoß spürbar ist. Ungeübte Schützen werden größere "
 "Schwierigkeiten beim Nachladen der Armbrust feststellen. Abgeschossene Bolzen "
 "haben eine hohe Wahrscheinlichkeit intakt geborgen werden zu können."
@@ -426,7 +426,7 @@ msgid ""
 "A King Size(tm) industrial strength permanent marker, about halfway between "
 "a typical marker and a can of spray paint in size."
 msgstr ""
-"Ein King Size(tm) superstarker industrie Filzstift. Er ist in etwa halb so "
+"Ein King Size(tm) superstarker Industriefilzstift. Er ist in etwa halb so "
 "groß wie eine Farbsprühdose."
 
 #: lang/json/json_items.py:1623
@@ -434,8 +434,8 @@ msgid ""
 "A Locksmith's set of sturdy steel picklocks, essential for silently and "
 "quickly opening locks."
 msgstr ""
-"Ein Sortiment von stahl Dietrichen wie sie von Schlossern verwendet werden. "
-"Sie eignen sich hervorragend für leises und sehr schnelles öffnen von Schlössern."
+"Ein Sortiment von Stahldietrichen, wie sie von Schlossern verwendet werden. "
+"Sie eignen sich hervorragend für leises und sehr schnelles Öffnen von Schlössern."
 
 #: lang/json/json_items.py:1618
 msgid ""
@@ -451,7 +451,7 @@ msgstr "Eine Red Sox Kappe. Sie bietet ein kleines bischen Wärme wenn getragen.
 
 #: lang/json/json_items.py:600
 msgid "A USB thumb drive. Useful for holding software."
-msgstr "Ein USB-Stick. Hilfreich zum speichern von Software."
+msgstr "Ein USB-Stick. Hilfreich zum Speichern von Software."
 
 #: lang/json/json_items.py:263
 msgid ""
@@ -486,7 +486,7 @@ msgid ""
 "A baseball bat with several nails driven through it, an excellent melee "
 "weapon."
 msgstr ""
-"Ein Baseballschläger dessen Spitze mit Nägeln gespickt ist. Er stellt eine "
+"Ein Baseballschläger, dessen Spitze mit Nägeln gespickt ist. Er stellt eine "
 exzellente Nahkampfwaffe dar."
 
 #: lang/json/json_items.py:279
@@ -500,7 +500,7 @@ msgstr ""
 
 #: lang/json/json_items.py:927
 msgid "A basic manual of electronics and circuit design."
-msgstr "Eine einfache Lehrbuch für Elektronik und Schaltungstechnik."
+msgstr "Ein einfaches Lehrbuch für Elektronik und Schaltungstechnik."
 
 #: lang/json/json_items.py:989
 msgid ""
@@ -508,9 +508,9 @@ msgid ""
 "light-weight, does some damage, and is so-so on accuracy. Stands a good "
 "chance of remaining intact once fired."
 msgstr ""
-"Ein einfacher hölzerner Pfeil. Versehen mit einem metallischen Pfeilkopf "
+"Ein einfacher hölzerner Pfeil, versehen mit einem metallischen Pfeilkopf "
 "und Befiederung. Durch sein geringes Gewicht ist der potentielle Schaden "
-"eher gering und genauigkeit liegt im mittelbereich. Er hat ausserdem eine "
+"eher gering und Genauigkeit liegt im Mittelbereich. Er hat außerdem eine "
 "erhöhte Wahrscheinlichtkeit nach dem Abfeuern noch intakt zu sein."
 
 #: lang/json/json_items.py:1702
@@ -519,14 +519,14 @@ msgid ""
 "shotgun, sub-machinegun or rifle, allowing a melee attack to deal piercing "
 "damage. The added length increases recoil slightly."
 msgstr ""
-"Ein Bajonett ist eine Stichwaffe die als Aufsatz an der Spitze einer Schrotflinte, "
+"Ein Bajonett ist eine Stichwaffe, die als Aufsatz an der Spitze einer Schrotflinte, "
 "einer Maschinenpistole oder einem Gewehr montiert werden kann. Bei einem Nahkampf "
 "wird somit Stichschaden verursacht. Die erhöhte Waffenlänge steigert den Rückstoß "
 "geringfügig."
 
 #: lang/json/json_items.py:907
 msgid "A biannual magazine devoted to discus throw."
-msgstr "Ein Magazin welches sich mit dem Werfen verschiedenster Objekte widmet."
+msgstr "Ein Magazin, welches sich mit dem Werfen verschiedenster Objekte widmet."
 
 #: lang/json/json_items.py:1241
 msgid "A big bag of peanut butter cups... your favorite!"
@@ -559,9 +559,9 @@ msgid ""
 "you do not throw it. Dropping it while lit is not safe."
 msgstr ""
 "Eine Flasche gefüllt mit einer brennbaren Flüssigkeit und mit einem brennenden Lappen "
-"verschlossen. Die Flasche kann jetzt geworfen werden. Beim Aufprall der Flasche verteilen "
-"verteilt sich ihr Inhalt im umliegenden Gebiet und entflamme dieses. Der angezündete Lappen "
-"kann erlischen wenn die Flasche nicht geworfen wird. Vom Ablegen einer entzündeten Flasche "
+"verschlossen. Die Flasche kann jetzt geworfen werden. Beim Aufprall der Flasche "
+"verteilt sich ihr Inhalt im umliegenden Gebiet und entflammt dieses. Der angezündete Lappen "
+"kann erlöschen, wenn die Flasche nicht geworfen wird. Vom Ablegen einer entzündeten Flasche "
 "ist aus sicherheitsgründen abzuraten."
 
 #: lang/json/json_items.py:1559
@@ -571,8 +571,8 @@ msgid ""
 "lighting it, throw it to cause fires."
 msgstr ""
 "Eine Flasche gefüllt mit einer brennbaren Flüssigkeit und mit einem Lappen verschlossen. "
-"Benutze den Gegenstand um den Lappen zu entzünden. Du brauchst dazu natürlich ein Feuerzeug. "
-"Nachdem der Lappen entzunden ist, kann die Flasche geworfen werden um etwas zu entflammen."
+"Benutze den Gegenstand, um den Lappen zu entzünden. Du brauchst dazu natürlich ein Feuerzeug. "
+"Nachdem der Lappen entzunden ist, kann die Flasche geworfen werden, um etwas zu entflammen."
 
 #: lang/json/json_items.py:1001
 msgid ""
@@ -587,9 +587,9 @@ msgid ""
 "Arrows fired from this weapon have a good chance of remaining intact for re-"
 "use. It requires 10 strength to fire"
 msgstr ""
-"Ein Bogen hergestellt aus verschiedenen Materialien um mehr kinetische Abschussenergie zu erzeugen. "
-"Pfeile die mit diesem Bogen abgeschossen werden, haben eine gute Chance, intakt zum erneuten gebrauch, "
-"wieder geborgen werden zu können. Benötigt mindestens 10 Stärke um abgefeuert werden zu können."
+"Ein Bogen ,hergestellt aus verschiedenen Materialien, um mehr kinetische Abschussenergie zu erzeugen. "
+"Pfeile die mit diesem Bogen abgeschossen werden, haben eine gute Chance, intakt zum erneuten Gebrauch, "
+"wieder geborgen werden zu können. Benötigt mindestens 10 Stärke, um abgefeuert werden zu können."
 
 #: lang/json/json_items.py:1008
 msgid ""
@@ -641,7 +641,7 @@ msgid ""
 "A burnt-out lightstrip. You could disassemble this to recover the amplifier "
 "circuit."
 msgstr ""
-"Ein ausgebrannter Lichtstreifen. Du könntest ihn zerlegen um an die Verstärkerschaltung zu gelangen."
+"Ein ausgebrannter Lichtstreifen. Du könntest ihn zerlegen, um an die Verstärkerschaltung zu gelangen."
 
 #: lang/json/json_items.py:819
 msgid ""
@@ -657,7 +657,7 @@ msgstr "Eine gusseiserne Pfanne. Kann als brauchbare Nahkampfwaffe verwendet wer
 
 #: lang/json/json_items.py:573
 msgid "A central processor unit, useful in advanced electronics crafting."
-msgstr "Eine zentrale Prozessoreinheit. Wird für dei Herstellung vortgeschrittener "
+msgstr "Eine zentrale Prozessoreinheit. Wird für die Herstellung vortgeschrittener "
 "elektronischer Geräte verwendet."
 
 #: lang/json/json_items.py:623
@@ -672,7 +672,7 @@ msgstr "Eine Teetasse aus Keramik. Den kleinen Finger abspreizen!"
 msgid ""
 "A circuit designed to amplify the strength of a signal. Useful in lots of "
 "electronics recipes."
-msgstr "Eine Schaltung um die Signalstäkre zu steigern. Brauchbar in einigen "
+msgstr "Eine Schaltung, um die Signalstäkre zu steigern. Brauchbar in einigen "
 "elektronischen Bauplänen."
 
 #: lang/json/json_items.py:577
@@ -680,12 +680,12 @@ msgid ""
 "A circuit designed to repeat a signal. Useful for crafting communications "
 "equipment."
 msgstr ""
-"Eine Schaltung um ein Signal verstärkt weiterzuleiten. Wird zur Herstellung "
+"Eine Schaltung, um ein Signal verstärkt weiterzuleiten. Wird zur Herstellung "
 "von Kommunikationsgeräten verwendet."
 
 #: lang/json/json_items.py:917
 msgid "A classic Soviet text on the art of attacking with a blade."
-msgstr "Ein klassischer Sovietischer text in der Kunst mit einem Messer zu Kämpfen."
+msgstr "Ein klassischer Sovietischer Text über die Kunst mit einem Messer zu Kämpfen."
 
 #: lang/json/json_items.py:937
 msgid ""
@@ -727,7 +727,7 @@ msgstr ""
 
 #: lang/json/json_items.py:269
 msgid "A compact wool blanket that covers your most important body parts."
-msgstr "Eine kompakte Wolldecke welche bei Benutzung die wichtigsten Körperteile bedeckt."
+msgstr "Eine kompakte Wolldecke, welche bei Benutzung die wichtigsten Körperteile bedeckt."
 
 #: lang/json/json_items.py:1649
 msgid ""
@@ -755,7 +755,7 @@ msgid ""
 "A crude shaft made from wood. It needs arrowheads and fletching to become a "
 "functional arrow. You can, however, fire it from a bow."
 msgstr ""
-"Ein simpler Schaft aus Holz. Er benötigt einen Pfeilkopt und eine Befiederung "
+"Ein simpler Schaft aus Holz. Er benötigt einen Pfeilkopt und eine Befiederung, "
 "um als Pfeil durchzugehen. Er kann allerdings auch jetzt schon abgeschossen werden."
 
 #: lang/json/json_items.py:1012
@@ -809,7 +809,7 @@ msgstr "Ein Detektiv geht einem ungewöhnlichen Mord in einer abgelegenen Villa 
 
 #: lang/json/json_items.py:1524
 msgid "A digging tool. Use it to dig pits adjacent to your location."
-msgstr "Ein Werkzeug zum Graden. Benutze es um Löcher auszuheben."
+msgstr "Ein Werkzeug zum Graben. Benutze es, um Löcher auszuheben."
 
 #: lang/json/json_items.py:434
 msgid ""
@@ -821,14 +821,14 @@ msgstr ""
 
 #: lang/json/json_items.py:591
 msgid "A dull knife, absolutely worthless in combat."
-msgstr "Ein stumpfes Messer. Komplett nutzlis in einem Gefecht."
+msgstr "Ein stumpfes Messer. Komplett nutzlos in einem Gefecht."
 
 #: lang/json/json_items.py:1523
 msgid ""
 "A farming implement. Use it to turn tillable land into a slow-to-cross pile "
 "of dirt."
 msgstr ""
-"Ein landwirtschaftliches Hilfsmittel. Kann benutzt werden um Erde in einen "
+"Ein landwirtschaftliches Hilfsmittel. Kann benutzt werden, um Erde in einen "
 "schwer passierbaren Wall aufzuschütten."
 
 #: lang/json/json_items.py:610
@@ -846,7 +846,7 @@ msgid ""
 "slow and rather difficult to get a fire started with this tool."
 msgstr ""
 "Ein Feuerbohrer ist ein archaisches Gerät zum Feuermachen. Hergestellt aus 2 "
-"Holzstücken und ein wenig Schnur. Trotz der simplen Bauweise, kann es recht "
+"Holzstücken und ein wenig Schnur. Trotz der simplen Bauweise kann es recht "
 "langsam und schwierig sein damit ein Feuer zu entfachen."
 
 #: lang/json/json_items.py:1568
@@ -863,7 +863,7 @@ msgid ""
 "need a lighter of course. Shortly after you light the fuse it will explode, "
 "so throw it quickly!"
 msgstr ""
-"Ein Knallfrosch mit einer kurzen Lunte. Benutze ihn um ihn anzuzünden, du brauchst "
+"Ein Knallfrosch mit einer kurzen Lunte. Benutze ihn, um ihn anzuzünden, du brauchst "
 "dafür natürlich ein Feuerzeug. Kurz nach dem Anzüden explodiert er, also wirf "
 "ihn besser schnell weg!"
 
@@ -872,7 +872,7 @@ msgid ""
 "A fist-sized eyeball with a cross-shaped pupil. It seems to be made of "
 "stone, but doesn't look like it was carved."
 msgstr ""
-"Ein Faustgroßer Augapfel mit einer Kreuzähnlichen Pupille. Es sieht aus als "
+"Ein faustgroßer Augapfel mit einer kreuzähnlichen Pupille. Es sieht aus als "
 "wäre es aus Stein gemacht aber anscheinend nicht gemeiselt."
 
 #: lang/json/json_items.py:260
@@ -880,7 +880,7 @@ msgid ""
 "A flashy gold ring. You can wear it if you like, but it won't provide any "
 "effects."
 msgstr ""
-"Ein funkelnder goldener Ring. Du kannst ihn tragen wenn du wills, hat aber "
+"Ein funkelnder goldener Ring. Du kannst ihn tragen wenn du wills, er hat aber "
 "keine besonderen Auswirkungen auf dich."
 
 #: lang/json/json_items.py:1638
@@ -888,7 +888,7 @@ msgid ""
 "A flattened stone affixed to a stick, works passably well as a shovel but "
 "really can't compare to a real shovel."
 msgstr ""
-"Ein falscher Stein welcher auf einen Stock gebunden wurde. Funktioniert einigermaßen "
+"Ein abgeflachter Stein, welcher auf einen Stock gebunden wurde. Funktioniert einigermaßen "
 "als Schaufel, kann aber noch lange nicht mit einer richtigen mithalten."
 
 #: lang/json/json_items.py:1525
@@ -896,85 +896,104 @@ msgid ""
 "A flexible rubber hose. Can be used for crafting, or siphoning fuel from a "
 "vehicle."
 msgstr ""
+"Ein biegbarer Gummischlauch. Kann zum Herstellen von Gegenständen oder zum Absaugen "
+"des Treibstoffes eines Fahrzeugs genutzt werden."
 
 #: lang/json/json_items.py:1606
 msgid "A flimsy saw, useful for cutting through wood objects."
-msgstr ""
+msgstr "Eine dünne Säge - nützlich, um Gegenstände aus Holz durchzuschneiden."
 
 #: lang/json/json_items.py:1219
 msgid ""
 "A fluid bladder from a plant based lifeform, not very nutritious, but fine "
 "to eat anyway."
 msgstr ""
+"Die flüssige Blase einer pflanzlichen Lebensform. Nicht sehr nahrhaft, aber "
+"trotzdem eine gute Mahlzeit für zwischendurch."
 
 #: lang/json/json_items.py:630
 msgid ""
 "A fork, if you stab something with it you eat it right away. Wait.. "
 "nevermind."
 msgstr ""
+"Eine Gabel. Wenn du etwas mit ihr anstichst, iss es sofort. Warte.. "
+"vergiss es."
 
 #: lang/json/json_items.py:1279
 msgid "A fragrant mix of dried oregano, basil, thyme and other spices."
-msgstr ""
+msgstr "Eine duftende Mischung aus getrocknetem Oregano, Basilikum, Thymian und anderen Gewürzen."
 
 #: lang/json/json_items.py:1228
 msgid "A freshly cooked chunk of plant matter, tasty and nutritious."
-msgstr ""
+msgstr "Ein frisch zubereitetes Stück Pflanzenmaterial, lecker und nahrhaft."
 
 #: lang/json/json_items.py:1227
 msgid "A freshly cooked slice of some unpleasant person. Tastes great."
-msgstr ""
+msgstr "Ein frisch zubereitetes Stück irgendeiner unangenehmen Person. Sehr schmackhaft."
 
 #: lang/json/json_items.py:169
 msgid ""
 "A full body fursuit in the form of an anthropomorphic wolf. It is quite "
 "encumbering and has little storage but is very warm."
 msgstr ""
+"Ein Ganzkörper-fursuit in der Form eines anthropomorphischen Wolfes. Er "
+"behindert deine Bewegungen und bietet wenig Stauraum, is allerdings sehr warm."
 
 #: lang/json/json_items.py:942
 msgid ""
 "A full flight log for a military aircraft.  Nothing of interest stands out."
 msgstr ""
+"Das komplette Logbuch eines Flugs eines Militärfluggerätes. Dir fällt nichts "
+"besonderes auf."
 
 #: lang/json/json_items.py:221
 msgid ""
 "A full gas mask that covers the face and eyes. Provides excellent protection "
 "from smoke, teargas, and other contaminants."
 msgstr ""
+"Eine Gasmaske, die dein Gesicht inklusive deiner Augen bedeckt. Sie bietet "
+"ausgezeichneten Schutz vor Rauch, Tränengas und anderen Fremdkörpern."
 
 #: lang/json/json_items.py:1301
 msgid ""
 "A full medical kit, with bandages, local anaesthetics, and rapid healing "
 "agents. Used for healing large amounts of damage."
 msgstr ""
+"Ein Erste-Hilfe-Koffer, der Verbände, Lokalanästhetika und eine Vielzahl "
+"von Arzneimitteln enthält. Nützlich, um schwere Verletzungen zu behandeln."
 
 #: lang/json/json_items.py:172
 msgid ""
 "A full-body cotton suit. Makes the apocalypse a truly gentlemanly experience."
 msgstr ""
+"Ein körperbedeckender Baumwollanzug. Durchlebe die Apokalypse wie ein wahrer Gentleman."
 
 #: lang/json/json_items.py:1615
 msgid ""
 "A funnel used to collect rainwater. (a)ctivate it and place it outside then "
 "collect water from it when it rains."
 msgstr ""
+"Ein Trichter zum Sammeln von Regenwasser. Aktiviere ihn und platziere ihn "
+"außerhalb, um Wasser zu sammeln, wenn es regnet."
 
 #: lang/json/json_items.py:194
 msgid "A fur coat with a couple small pockets. Extremely warm."
-msgstr ""
+msgstr "Ein Pelzmantel mit einigen kleinen Taschen. Extrem warm."
 
 #: lang/json/json_items.py:1323
 msgid ""
 "A gentleman's vice. Cigars are what separates a gentleman from a savage."
 msgstr ""
+"Das Laster eines Gentlemans. Zigarren sind die Sache, die einen Gentleman "
+"von einem Wilden unterscheiden."
 
 #: lang/json/json_items.py:627
 msgid "A glass dessert bowl, not a lot of use for it really."
-msgstr ""
+msgstr "Eine gläserne Dessertschale. Nicht wirklich sehr nützlich."
 
 #: lang/json/json_items.py:626
 msgid "A glass dinner plate, you could probably play frisbee with it"
-msgstr ""
+msgstr "Ein Glasteller, du könntest mit ihm wahrscheinlich Frisbee spielen."
 
 #: lang/json/json_items.py:1561
 msgid ""
@@ -982,6 +1001,9 @@ msgid ""
 "cause the chemicals to mix. If this mixture is exposed to air (as happens if "
 "you throw the vial) they will spill out as a pool of potent acid."
 msgstr ""
+"Ein Glasfläschchen, welches in zwei Kammern geteilt ist. Die Trennwand kann "
+"entfernt werden, wodurch die Chemikalien vermischt werden. Wenn diese Mixtur "
+"der Luft ausgesetzt wird (z.b beim Werfen), entsteht hochkonzentrierte Säure."
 
 #: lang/json/json_items.py:1562
 msgid ""
@@ -989,84 +1011,102 @@ msgid ""
 "to air (as happens if you throw the vial), they will spill out as a pool of "
 "potent acid."
 msgstr ""
-
+"Ein Glasfläschchen, in dem sich zwei Chemikalien mischen. Wenn diese Mixtur "
+"der Luft ausgesetzt wird (was beim Werfen des Fläschchens passiert), entsteht "
+"eine Lache hochkonzentrierter Säure."
 #: lang/json/json_items.py:602
 msgid "A gold candlestick."
-msgstr ""
+msgstr "Ein vergoldeter Kerzenständer."
 
 #: lang/json/json_items.py:1682
 msgid ""
 "A grip placed forward on the barrel allows for greater control and accuracy. "
 "Aside from increased weight, there are no drawbacks."
 msgstr ""
+"Ein Griff, der am Lauf befestigt wurde, ermöglicht bessere Handhabung und "
+"höhere Genauigkeit. Außer des erhöhten Gewichts gibt es keine Nachteile."
 
 #: lang/json/json_items.py:919
 msgid "A guide detailing the basics of woodsmanship and outdoor survival."
-msgstr ""
+msgstr "Ein Lehrbuch, das die Grundlagen des Überlebens in der Wildnis beschreibt."
 
 #: lang/json/json_items.py:773
 msgid "A handful of pebbles, useful as ammunition for slings."
-msgstr ""
+msgstr "Eine handvoll Kieselsteine, nützlich als Munition für Schleudern."
 
 #: lang/json/json_items.py:292
 msgid ""
 "A handheld drum. Suitable for making loud noises into all hours of the night."
 msgstr ""
+"Eine tragbare Trommel. Praktisch, um die ganze Nacht lang Lärm zu verursachen."
 
 #: lang/json/json_items.py:239
 msgid ""
 "A hard plastic hat worn in constructions sites. Excellent protection from "
 "cuts and percussion."
 msgstr ""
+"Eine Kopfbedeckung aus Hartplastik, die auf Baustellen getragen wird. "
+"Bietet exzellenten Schutz vor Stichwunden und Erschütterungen."
 
 #: lang/json/json_items.py:244
 msgid ""
 "A hard plastic helmet that covers the head and ears. Designed to protect "
 "against a baseball to the head."
 msgstr ""
+"Ein Helm aus Hartplastik, der deinen Kopf und deine Ohren bedeckt. Entwickelt, "
+"um den Kopf vor Basebällen zu schützen."
 
 #: lang/json/json_items.py:658
 msgid ""
 "A hard-wood stick designed for hitting colorful balls around a felt table. "
 "Truly, the coolest of sports."
 msgstr ""
+"Ein Stößel aus Hartholz, der zum Herumstoßen von bunten Bällen auf einem "
+"Filztisch verwendet wird. Wahrhaftig die coolste Sportart."
 
 #: lang/json/json_items.py:237
 msgid "A hat made from the pelts of animals. Extremely warm."
-msgstr ""
+msgstr "Ein Hut, der aus den Pelzen von Tieren hergestellt wurde. Extrem warm."
 
 #: lang/json/json_items.py:173
 msgid ""
 "A hazardous materials suit. Though quite bulky and cumbersome, wearing it "
 "will provide excellent protection against ambient radiation."
 msgstr ""
+"Ein Anzug, der dich vor gesundheitsgefährdenden Stoffen schützt. Er ist "
+"ziemlich unhandlich, bietet aber hervorragenden Schutz gegen Strahlung."
 
 #: lang/json/json_items.py:616
 msgid "A heating element, like the ones used in hotplates or kettles."
-msgstr ""
+msgstr "Ein Heizkörper (wie der in Heizplatten oder Teekesseln)."
 
 #: lang/json/json_items.py:1643
 msgid ""
 "A heatpack, used to treat sports injuries and heat food.  This one has been "
 "used already and is now useless."
 msgstr ""
+"Eine Hitzepackung, welche zum Behandeln von Sportverletzungen oder zum Erhitzen "
+"von Nahrungsmitteln genutzt wird. Allerdings wurde dieses Exemplar schon "
+"verwendet und ist nun nutzlos."
 
 #: lang/json/json_items.py:1642
 msgid ""
 "A heatpack, used to treat sports injuries and heat food.  Usable only once."
 msgstr ""
+"Eine Hitzepackung, welche zum Behandeln von Sportverletzungen oder zum Erhitzen "
+"von Nahrungsmitteln genutzt wird. Kann nur einmal verwendet werden."
 
 #: lang/json/json_items.py:187
 msgid "A heavy bulletproof vest. The best protection from cuts and bullets."
-msgstr ""
+msgstr "Eine kugelsichere Weste. Der beste Schutz gegen Stich- und Schussverletzungen."
 
 #: lang/json/json_items.py:274
 msgid "A heavy cloak that is thrown over your body."
-msgstr ""
+msgstr "Ein schwerer Umhang, der über deinen Körper geworfen wird."
 
 #: lang/json/json_items.py:195
 msgid "A heavy cotton coat. Cumbersome, but warm and with deep pockets."
-msgstr ""
+msgstr "Ein schwerer Baumwollmantel. Beschwerlich, aber warm und mit großen Taschen."
 
 #: lang/json/json_items.py:284
 msgid "A heavy duty hauling frame designed to interface with power armor."
@@ -1074,28 +1114,33 @@ msgstr ""
 
 #: lang/json/json_items.py:268
 msgid "A heavy fur blanket that covers most of your body."
-msgstr ""
+msgstr "Eine schwere Pelzdecke, die den Großteil deines Körpers bedeckt."
 
 #: lang/json/json_items.py:275
 msgid "A heavy fur cloak that is thrown over your body."
-msgstr ""
+msgstr "Ein schwerer Pelzmhang, der über deinen Körper geworfen wird."
 
 #: lang/json/json_items.py:245
 msgid ""
 "A heavy helmet that provides excellent protection from all sorts of damage."
 msgstr ""
+"Ein schwerer Helm, der exzellenten Schutz vor vielen Schadensarten bietet."
 
 #: lang/json/json_items.py:586
 msgid ""
 "A heavy iron disc that typically covers a ladder into the sewers. Lifting it "
 "from the manhole is impossible without a crowbar."
 msgstr ""
+"Ein schwerer Kanaldeckel, der typischerweise die Leiter in die Kanalisation "
+"bedeckt. Es ist unmöglich, ihn ohne ein Brecheisen hochzuheben."
 
 #: lang/json/json_items.py:276
 msgid ""
 "A heavy leather cloak that is thrown over your body. Provides decent "
 "protection"
 msgstr ""
+"Ein schwerer Ledermantel, der über deinen Körper geworfen wird. Er "
+"bietet ordentlichen Schutz."
 
 #: lang/json/json_items.py:779
 msgid ""
@@ -1108,24 +1153,35 @@ msgstr ""
 msgid ""
 "A heavy pair of leather gloves, used by firefighters for heat protection."
 msgstr ""
+"Ein schweres Paar Lederhandschuhe, welche von Feuerwehrmännern zum Schutz "
+"vor extremer Hitze genutzt werden."
 
 #: lang/json/json_items.py:983
 msgid ""
 "A heavy shaft made from scrap metal. It needs arrowheads and fletching to "
 "become a functional arrow. You can, however, fire it from a bow."
 msgstr ""
+"Ein schwerer Pfeilschaft, der aus Altmetall hergestellt wurde. Er muss noch "
+"mit einer Pfeilspitze versehen und befiedert werden, um als Pfeil gelten zu "
+"können, kann allerdings jetzt schon mithilfe eines Bogens abgefeuert werden."
 
 #: lang/json/json_items.py:982
 msgid ""
 "A heavy shaft made from wood. It needs arrowheads and fletching to become a "
 "functional arrow. You can, however, fire it from a bow."
 msgstr ""
+"Ein schwerer Pfeilschaft, der aus Holz hergestellt wurde. Er muss noch "
+"mit einer Pfeilspitze versehen und befiedert werden, um als Pfeil gelten zu "
+"können, kann allerdings jetzt schon mithilfe eines Bogens abgefeuert werden."
 
 #: lang/json/json_items.py:641
 msgid ""
 "A heavy steel chain. Useful as a weapon, or for crafting. It has a chance to "
 "wrap around your target, allowing for a bonus unarmed attack."
 msgstr ""
+"Eine schwere Stahlkette. Kann als Waffe oder zum Fertigen von anderen Gegen- "
+"ständen genutzt werden. Sie kann sich um dein Ziel wickeln, was einen "
+"zusätzliche Faustangriff ermöglicht."
 
 #: lang/json/json_items.py:992
 msgid ""
@@ -1134,20 +1190,26 @@ msgid ""
 "is more stable in flight, resulting in better accuracy over a longer range. "
 "Stands a very good chance of remaining intact once fired."
 msgstr ""
+"Ein schwerer Holzpfeil mit einem Pfeilspitze aus Metall und einigen Federn. "
+"Er ist um einiges schwerer als andere Holzpfeile, wodurch er mehr Schaden "
+"verursacht und eine stabilere Flugbahn besitzt, was die Genauigkeit erhöht. "
+"Es ist wahrscheinlich, dass er nach dem Feuern intakt bleibt."
 
 #: lang/json/json_items.py:165
 msgid "A hefty pair of fur-lined pants."
-msgstr ""
+msgstr "Eine kräftige, pelzgefütterte Hose."
 
 #: lang/json/json_items.py:248
 msgid ""
 "A helmet made from the exoskeletons of insects. Covers the entire head; very "
 "light and durable."
 msgstr ""
+"Ein Helm, der aus dem Außenskelett von Insekten gefertigt wurde. Bedeckt den "
+"gesamten Kopf; sehr leicht und beständig."
 
 #: lang/json/json_items.py:246
 msgid "A helmet with a plastic shield that covers your entire face."
-msgstr ""
+msgstr "Ein Helm mit einem Schild aus Plastik, welches dein gesamtes Gesicht bedeckt."
 
 #: lang/json/json_items.py:247
 msgid ""
@@ -3974,7 +4036,7 @@ msgstr "Frischgekochte Nudeln. Schmecken nach nichts aber machen satt."
 
 #: lang/json/json_items.py:1172
 msgid "Fresh, clean water. Truly the best thing to quench your thirst."
-msgstr "Frisches klares Wasser. Wohl das beste Getränk um deinen Durst zu löschen."
+msgstr "Frisches klares Wasser. Wohl das beste Getränk, um deinen Durst zu löschen."
 
 #: lang/json/json_items.py:1222
 msgid "Freshly butchered from a human body."
@@ -5385,7 +5447,7 @@ msgstr "OBERKÖRPER: "
 
 #: lang/json/json_items.py:1302
 msgid "Take frequently to improve your immune system."
-msgstr "Benutze diese regelmäßig um dein Immunsystem zu stärken."
+msgstr "Benutze diese regelmäßig, um dein Immunsystem zu stärken."
 
 #: lang/json/json_items.py:1246
 msgid "Tasty juicy berry, often found growing wild in fields."
@@ -6128,7 +6190,7 @@ msgid ""
 "to expell a thick black smoke. This smoke will slow those who enter it, as "
 "well as obscuring vision and scent."
 msgstr ""
-"Aktiviere den Gegenstand um den Splint zu ziehen. "
+"Aktiviere den Gegenstand, um den Splint zu ziehen. "
 
 #: lang/json/json_items.py:589
 msgid "Useful for boiling water when cooking spaghetti and more."
@@ -6187,7 +6249,7 @@ msgid ""
 "Using this radio turns it on. It will pick up any nearby signals being "
 "broadcast and play them audibly."
 msgstr ""
-"Aktiviere dieses Radio um Signale in der näheren Umgebung zu empfangen."
+"Aktiviere dieses Radio, um Signale in der näheren Umgebung zu empfangen."
 
 #: lang/json/json_items.py:324
 msgid "Uzi 9mm"
@@ -6210,19 +6272,19 @@ msgid ""
 "Vacuum packed apple slices in plastic packaging..  Activate to open and "
 "enjoy."
 msgstr ""
-"In Plastikbeutel vakuumierte Apfelstücke. Aktivieren um sie zu Öffnen und zu Genießen."
+"In Plastikbeutel vakuumierte Apfelstücke. Aktivieren, um sie zu öffnen und zu genießen."
 
 #: lang/json/json_items.py:1651
 msgid ""
 "Vacuum packed meat slices in plastic packaging.  Activate to open and enjoy."
 msgstr ""
-"In Plastikbeutel vakuumierte Fleischstücke. Aktivieren um sie zu Öffnen und zu Genießen."
+"In Plastikbeutel vakuumierte Fleischstücke. Aktivieren, um sie zu öffnen und zu genießen."
 
 #: lang/json/json_items.py:1652
 msgid ""
 "Vacuum packed veggy chunks in plastic packaging.  Activate to open and enjoy."
 msgstr ""
-"In Plastikbeutel vakuumierte Gemüsestücke. Aktivieren um sie zu Öffnen und zu Genießen."
+"In Plastikbeutel vakuumierte Gemüsestücke. Aktivieren, um sie zu öffnen und zu genießen."
 
 #: lang/json/json_items.py:1296
 msgid ""
@@ -6234,7 +6296,7 @@ msgstr ""
 
 #: lang/json/json_items.py:1182
 msgid "Vegetable stock. Tasty and fairly nutritious."
-msgstr "Einfache Gemüsebrühe. Schmeckt ausgezeichnet und ist ausserdem noch sehr Nahrhaft."
+msgstr "Einfache Gemüsebrühe. Schmeckt ausgezeichnet und ist außerdem noch sehr nahrhaft."
 
 #: lang/json/json_items.py:1225
 msgid ""
@@ -6414,7 +6476,7 @@ msgid ""
 "With enough electronics skill, you could attach this to your devices to "
 "increase their battery capacity."
 msgstr ""
-"Mit genügen elektronik Erfahrung könntest du diesen Gegenstand dazu benutzen "
+"Mit genügen elektronik Erfahrung könntest du diesen Gegenstand dazu benutzen, "
 "um die Batterikapazität diverser Geräte zu erhöhen."
 
 #: lang/json/json_items.py:1430
@@ -6471,11 +6533,11 @@ msgstr "Du kannst fühlen, wie sich die kleinen Sporen in dein Fleisch bohren."
 
 #: lang/json/json_items.py:895
 msgid "You can read it for the articles. Or not."
-msgstr "Du kannst es für die Artikel lesen. Oder aber auch nicht."
+msgstr "Du kannst ihn für die Artikel lesen. Oder aber auch nicht."
 
 #: disease.cpp:70
 msgid "You can't breathe... asthma attack!"
-msgstr "Du kannst nicht atmen... Asthma attacke!"
+msgstr "Du kannst nicht atmen... Asthmaanfall!"
 
 #: disease.cpp:85
 msgid "You can't look away from the faultline..."
@@ -6512,11 +6574,11 @@ msgstr "Die fühlst dich übel und wie eine Versuchsratte."
 
 #: disease.cpp:20
 msgid "You feel a cold coming on..."
-msgstr "Du fühlst die anfänge einer Erkältung..."
+msgstr "Du fühlst die Anfänge einer Erkältung..."
 
 #: disease.cpp:23
 msgid "You feel a flu coming on..."
-msgstr "Du fühlst die anfänge einer Grippe..."
+msgstr "Du fühlst die Anfänge einer Grippe..."
 
 #: disease.cpp:851
 msgid "You feel a little strange."
@@ -6540,19 +6602,19 @@ msgstr "Die fühlst dich übel."
 
 #: disease.cpp:1164
 msgid "You feel terribly weak, standing up is nearly impossible."
-msgstr "Du fühlst die furchbar schwach, stehen ist fast ein Ding der Unmöglichkeit."
+msgstr "Du fühlst dich furchbar schwach, Stehen ist fast ein Ding der Unmöglichkeit."
 
 #: disease.cpp:606
 msgid "You feel your skeleton melt"
-msgstr "Du fühlst wie dein Skelett schmilzt."
+msgstr "Du fühlst, wie dein Skelett schmilzt."
 
 #: disease.cpp:602
 msgid "You feel your skeleton melt and mend."
-msgstr "Du fühlst wie dein Skelett schmelzen und sich richtet."
+msgstr "Du fühlst, wie dein Skelett schilzt und sich richtet."
 
 #: disease.cpp:1786
 msgid "You have a nasty bite wound."
-msgstr "Die hast eine garstige Bisswunde."
+msgstr "Du hast eine garstige Bisswunde."
 
 #: disease.cpp:1787
 msgid "You have an infected wound."
@@ -6596,7 +6658,7 @@ msgstr "Du hast zu viel geraucht!"
 
 #: disease.cpp:465
 msgid "You spasm suddenly!"
-msgstr "Plötzliche spasmen durchziehen deinen Körper!"
+msgstr "Plötzliche Krämpfe durchziehen deinen Körper!"
 
 #: disease.cpp:833
 msgid "You start scratching yourself all over!"
@@ -6620,7 +6682,7 @@ msgstr "Du wirfst und drehst dich umher in der Hitze."
 
 #: disease.cpp:577
 msgid "You toss and turn trying to keep warm."
-msgstr "Du wirfst und drehst dich umher um warm zu bleiben."
+msgstr "Du wirfst und drehst dich umher, um warm zu bleiben."
 
 #: disease.cpp:532
 msgid "You try to sleep, but can't..."
@@ -6672,17 +6734,17 @@ msgstr "Du wurdest zu Boden geschlagen."
 
 #: disease.cpp:1640
 msgid "You're knocked to the ground.  You have to get up before you can move."
-msgstr "Du wurdest zu Boden geschlagen. Du musst aufstehen bevor du weitergehen kannst."
+msgstr "Du wurdest zu Boden geschlagen. Du musst aufstehen, bevor du weitergehen kannst."
 
 #: disease.cpp:26
 msgid "You're on fire!"
-msgstr "Bu brennst!"
+msgstr "Du brennst!"
 
 #: disease.cpp:1753
 msgid ""
 "You're stuck in a pit.  Sight distance is limited and you have to climb out."
 msgstr ""
-"Du steckst in einer Grube fest. Die sichtweite ist begrenzt und du musst hinausklettern."
+"Du steckst in einer Grube fest. Die Sichtweite ist begrenzt und du musst hinausklettern."
 
 #: disease.cpp:79
 msgid "You're stunned!"
@@ -6739,7 +6801,7 @@ msgstr "Deine Arme schwitzen von der Hitze."
 msgid ""
 "Your arms are sweating profusely. Your muscles are in pain due to cramps."
 msgstr ""
-"Deine Arme schwitzen beträchtlich. Deine Muskeln schmerzen unter krämpfen."
+"Deine Arme schwitzen beträchtlich. Deine Muskeln schmerzen unter Krämpfen."
 
 #: disease.cpp:1443
 msgid "Your arms are very exposed to the cold. Your arms are shivering."
@@ -6751,7 +6813,7 @@ msgstr "Deine Arme fühlen sich warm an."
 
 #: disease.cpp:903
 msgid "Your asthma overcomes you.  You stop breathing and die..."
-msgstr "Dein Asthma übermannt dich. Die stoppst zu Atmen und stirbst..."
+msgstr "Dein Asthma übermannt dich. Dein Atmen stoppt und du stirbst..."
 
 #: disease.cpp:95
 msgid "Your bite wound feels infected"
@@ -6813,8 +6875,8 @@ msgstr "Dein Gesicht ist steif von der Kälte."
 
 #: disease.cpp:1509
 msgid "Your face is sweating from the heat, making it hard to see."
-msgstr "Dein Gesicht schwitzt von der Hitze. Schweißtropfen die in deine Augen "
-"tropfen machen es schwer etwas zu sehen."
+msgstr "Dein Gesicht schwitzt von der Hitze. Schweißtropfen, die in deine Augen "
+"tropfen, machen es schwer etwas zu sehen."
 
 #: disease.cpp:1510
 msgid "Your face is sweating profusely, making it hard to see."
@@ -6828,7 +6890,7 @@ msgstr "Dein Gesicht ist der Kälte extrem ausgesetzt."
 msgid ""
 "Your feet are blistering from the intense heat. It is extremely painful."
 msgstr ""
-"Auf deinen Füßen entstehen Blasen von der starken hitze. Es ist "
+"Auf deinen Füßen entstehen Blasen von der starken Hitze. Es ist "
 "extrem schmerzhaft."
 
 #: disease.cpp:1465
@@ -6852,12 +6914,12 @@ msgid ""
 "Your feet are frostnipped from the prolonged exposure to the cold and have "
 "gone numb. When the blood begins to flow, it will be painful."
 msgstr ""
-"Deine Füße haben leichte Erfrierungen vonder andauernden Kälteaussetzung und "
+"Deine Füße haben leichte Erfrierungen von der andauernden Kälteaussetzung und "
 "sind taub. Sobald das Blut wieder fließt wird es schmerzhaft."
 
 #: disease.cpp:1544 disease.cpp:1545
 msgid "Your feet are painfully swollen due to the heat."
-msgstr "Deine Füße sind schmerzhaft geschwollen dirch die Hitze."
+msgstr "Deine Füße sind schmerzhaft geschwollen durch die Hitze."
 
 #: disease.cpp:295
 msgid "Your feet are swelling in the heat."
@@ -6879,7 +6941,7 @@ msgstr "Dein Füße fühlen sie warm an."
 msgid ""
 "Your hands are blistering from the intense heat. It is extremely painful."
 msgstr ""
-"Auf deinen Händen entstehen Blasen von der starken hitze. Es ist "
+"Auf deinen Händen entstehen Blasen von der starken Hitze. Es ist "
 "extrem schmerzhaft."
 
 #: disease.cpp:1451
@@ -6918,7 +6980,7 @@ msgstr "Deine Hände sind der Kälte extrem ausgesetzt. Deine Hände zittern."
 
 #: disease.cpp:1531
 msgid "Your hands feel disgustinly hot and are very incoordinated."
-msgstr "Deine Hände fühlen sich ekelhaft heiß an und sind seh unkooridiniert."
+msgstr "Deine Hände fühlen sich ekelhaft heiß an und sind seh unkoordiniert."
 
 #: disease.cpp:1530
 msgid "Your hands feel hot and incoordinated."
@@ -6940,7 +7002,7 @@ msgstr "Dein Kopf fühlt sich warm an."
 msgid ""
 "Your head is dangerously cold. Getting undressed sounds like a good idea."
 msgstr ""
-"Dein Kopf ist gefährlich kalt. Sich nakt auszuziehen hört sich wie eine gute Idee an."
+"Dein Kopf ist gefährlich kalt. Sich auszuziehen hört sich wie eine gute Idee an."
 
 #: disease.cpp:1421
 msgid "Your head is exposed to the cold."
@@ -6975,13 +7037,13 @@ msgstr "Deine infizierte Wunde ist unglaublich schmerzhaft."
 msgid ""
 "Your insides are shifting in strange ways as the treatment takes effect."
 msgstr ""
-"Du fühlst, wie sich deine Gedärme in eigenartige Richungen verlagern als die Behalndlung beginnt."
+"Du fühlst, wie sich deine Gedärme in eigenartige Richungen verlagern als die Behandlung beginnt."
 
 #: disease.cpp:1556
 msgid ""
 "Your legs are blistering from the intense heat. It is extremely painful."
 msgstr ""
-"Auf deinen Beinen entstehen Blasen von der starken hitze. Es ist "
+"Auf deinen Beinen entstehen Blasen von der starken Hitze. Es ist "
 "extrem schmerzhaft."
 
 #: disease.cpp:286
@@ -7028,7 +7090,7 @@ msgstr "Deine Beine fühlen sich warm an."
 
 #: disease.cpp:1638
 msgid "Your movement is randomized."
-msgstr "Du bewegungst dich in eine zufällig Richtung."
+msgstr "Du bewegst dich in eine zufällige Richtung."
 
 #: disease.cpp:1778
 msgid ""
@@ -7046,7 +7108,7 @@ msgid ""
 "condition, and deals massive damage."
 msgstr ""
 "Dein nächster Angriff ist ein Schlangangriff. Dazu müssen beide deiner Arme "
-"in guter kondition sein um extra Schaden zu verursachen."
+"in guter Kondition sein, um extra Schaden zu verursachen."
 
 #: disease.cpp:1660
 msgid ""
@@ -7067,12 +7129,12 @@ msgstr "Dein Oberkörper fühlt sich warm an."
 msgid ""
 "Your torso is blistering from the intense heat. It is extremely painful."
 msgstr ""
-"Auf deinem Oberkörper entstehen Blasen von der starken hitze. Es ist "
+"Auf deinem Oberkörper entstehen Blasen von der starken Hitze. Es ist "
 "extrem schmerzhaft."
 
 #: disease.cpp:136
 msgid "Your torso is burning up. You should remove some layers."
-msgstr "Dein Oberkörper brennt vor hitze. Du solltest etwas ausziehen."
+msgstr "Dein Oberkörper brennt vor Hitze. Du solltest etwas ausziehen."
 
 #: disease.cpp:1437
 msgid ""
@@ -7094,7 +7156,7 @@ msgstr ""
 
 #: disease.cpp:1516
 msgid "Your torso is sweating from the heat. You feel weak."
-msgstr "Dein Oberkörper schwitzt von der hitze. Du fühlst dich schwach."
+msgstr "Dein Oberkörper schwitzt von der Hitze. Du fühlst dich schwach."
 
 #: disease.cpp:1517
 msgid "Your torso is sweating profusely. You feel very weak."
@@ -7110,7 +7172,7 @@ msgstr "Dein Sichtfeld ist voller heller lichter..."
 
 #: lang/json/json_items.py:1262
 msgid "Yuck, not very tasty, but it is quite filling."
-msgstr "Igitt, nicht sehr schmackhaft aber sehr füllend."
+msgstr "Igitt, nicht sehr schmackhaft, aber sehr füllend."
 
 #: lang/json/json_items.py:1278
 msgid ""
@@ -7118,7 +7180,7 @@ msgid ""
 "and cooking with, though."
 msgstr ""
 "Igitt, du willst das sicher nicht essen. Es eignet sich aber gut zum "
-"konservieren von Fleisch und zum Kochen."
+"Konservieren von Fleisch und zum Kochen."
 
 #: lang/json/json_items.py:559
 msgid "a poppy bud"
@@ -7454,7 +7516,7 @@ msgstr "Breitschwert"
 
 #: lang/json/json_items.py:1090
 msgid "broccoli"
-msgstr "Brokoli"
+msgstr "Brokkoli"
 
 #: lang/json/json_items.py:519
 msgid "broom"
@@ -7614,7 +7676,7 @@ msgstr "Zigarren"
 
 #: lang/json/json_items.py:1014
 msgid "clean water"
-msgstr "Klares Wasser"
+msgstr "Sauberes Wasser"
 
 #: lang/json/json_items.py:130
 msgid "cloak"
@@ -7758,7 +7820,7 @@ msgstr "Ausgebranntes Knicklicht"
 
 #: lang/json/json_items.py:121
 msgid "deputy badge"
-msgstr "Hilfsscherrif Makre"
+msgstr "Hilfsscherrif Marke"
 
 #: lang/json/json_items.py:499
 msgid "desk fan"
@@ -8518,7 +8580,7 @@ msgstr "Pizza mit Fleisch"
 
 #: lang/json/json_items.py:1082
 msgid "meat sandwich"
-msgstr "Sandwitch mit Fleisch"
+msgstr "Sandwich mit Fleisch"
 
 #: lang/json/json_items.py:1027
 msgid "meat soup"
