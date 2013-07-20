@@ -974,24 +974,26 @@ msgid ""
 "collect water from it when it rains."
 msgstr ""
 "Ein Trichter zum Sammeln von Regenwasser. Aktiviere ihn und platziere ihn "
-" außerhalb um Wasser zu sammeln wenn es regnet.
+"außerhalb um Wasser zu sammeln wenn es regnet."
 
 #: lang/json/json_items.py:194
 msgid "A fur coat with a couple small pockets. Extremely warm."
-msgstr ""
+msgstr "Ein Pelzmantel mit einigen kleinen Taschen. Extrem warm."
 
 #: lang/json/json_items.py:1323
 msgid ""
 "A gentleman's vice. Cigars are what separates a gentleman from a savage."
 msgstr ""
+"Das Laster eines Gentlemans. Zigarren sind die Sache, die einen Gentleman "
+"von einem Wilden unterscheiden."
 
 #: lang/json/json_items.py:627
 msgid "A glass dessert bowl, not a lot of use for it really."
-msgstr ""
+msgstr "Eine gläserne Dessertschale. Nicht wirklich sehr nützlich."
 
 #: lang/json/json_items.py:626
 msgid "A glass dinner plate, you could probably play frisbee with it"
-msgstr ""
+msgstr "Ein Glasteller, du könntest mit ihm wahrscheinlich Frisbee spielen."
 
 #: lang/json/json_items.py:1561
 msgid ""
@@ -999,6 +1001,9 @@ msgid ""
 "cause the chemicals to mix. If this mixture is exposed to air (as happens if "
 "you throw the vial) they will spill out as a pool of potent acid."
 msgstr ""
+"Ein Glasfläschchen, welches in zwei Kammern geteilt ist. Die Trennwand kann "
+"entfernt werden, wodurch die Chemikalien vermischt werden. Wenn diese Mixtur "
+"der Luft ausgesetzt wird (z.b beim Werfen), entsteht hochkonzentrierte Säure."
 
 #: lang/json/json_items.py:1562
 msgid ""
@@ -1006,61 +1011,76 @@ msgid ""
 "to air (as happens if you throw the vial), they will spill out as a pool of "
 "potent acid."
 msgstr ""
-
+"Ein Glasfläschchen, in dem sich zwei Chemikalien mischen. Wenn diese Mixtur "
+"der Luft ausgesetzt wird (was beim Werfen des Fläschchens passiert), entsteht "
+"eine Lache hochkonzentrierter Säure."
 #: lang/json/json_items.py:602
 msgid "A gold candlestick."
-msgstr ""
+msgstr "Ein vergoldeter Kerzenständer."
 
 #: lang/json/json_items.py:1682
 msgid ""
 "A grip placed forward on the barrel allows for greater control and accuracy. "
 "Aside from increased weight, there are no drawbacks."
 msgstr ""
+"Ein Griff, der am Lauf befestigt wurde, ermöglicht bessere Handhabung und "
+"höhere Genauigkeit. Außer des erhöhten Gewichts gibt es keine Nachteile."
 
 #: lang/json/json_items.py:919
 msgid "A guide detailing the basics of woodsmanship and outdoor survival."
-msgstr ""
+msgstr "Ein Lehrbuch, das die Grundlagen des Überlebens in der Wildnis beschreibt."
 
 #: lang/json/json_items.py:773
 msgid "A handful of pebbles, useful as ammunition for slings."
-msgstr ""
+msgstr "Eine handvoll Kieselsteine, nützlich als Munition für Schleudern."
 
 #: lang/json/json_items.py:292
 msgid ""
 "A handheld drum. Suitable for making loud noises into all hours of the night."
 msgstr ""
+"Eine tragbare Trommel. Praktisch, um die ganze Nacht lang Lärm zu verursachen."
 
 #: lang/json/json_items.py:239
 msgid ""
 "A hard plastic hat worn in constructions sites. Excellent protection from "
 "cuts and percussion."
 msgstr ""
+"Eine Kopfbedeckung aus Hartplastik, die auf Baustellen getragen wird. "
+"Bietet exzellenten Schutz vor Stichwunden und Erschütterungen."
+
 
 #: lang/json/json_items.py:244
 msgid ""
 "A hard plastic helmet that covers the head and ears. Designed to protect "
 "against a baseball to the head."
 msgstr ""
+"Ein Helm aus Hartplastik, der deinen Kopf und deine Ohren bedeckt. Entwickelt, "
+"um den Kopf vor Basebällen zu schützen."
+
 
 #: lang/json/json_items.py:658
 msgid ""
 "A hard-wood stick designed for hitting colorful balls around a felt table. "
 "Truly, the coolest of sports."
 msgstr ""
+"Ein Stößel aus Hartholz, der zum Herumstoßen von bunten Bällen auf einem "
+"Filztisch verwendet wird. Wahrhaftig die coolste Sportart."
 
 #: lang/json/json_items.py:237
 msgid "A hat made from the pelts of animals. Extremely warm."
-msgstr ""
+msgstr "Ein Hut, der aus den Pelzen von Tieren hergestellt wurde. Extrem warm."
 
 #: lang/json/json_items.py:173
 msgid ""
 "A hazardous materials suit. Though quite bulky and cumbersome, wearing it "
 "will provide excellent protection against ambient radiation."
 msgstr ""
+"Ein Anzug, der dich vor gesundheitsgefährdenden Stoffen schützt. Er ist "
+"ziemlich unhandlich, bietet aber hervorragenden Schutz gegen Strahlung."
 
 #: lang/json/json_items.py:616
 msgid "A heating element, like the ones used in hotplates or kettles."
-msgstr ""
+msgstr "Ein Heizkörper, wie der in Heizplatten oder Teekesseln."
 
 #: lang/json/json_items.py:1643
 msgid ""
