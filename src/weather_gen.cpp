@@ -14,6 +14,11 @@
 #include "weather.h"
 #include "point.h"
 
+#include <cmath>
+#include <cstdlib>
+#include <fstream>
+#include "debug.h"
+
 namespace
 {
 constexpr double tau = 2 * M_PI;
@@ -201,19 +206,21 @@ weather_type weather_generator::get_weather_conditions( const w_point &w ) const
     if( w.temperature <= 32 ) {
         if( r == WEATHER_DRIZZLE ) {
             r = WEATHER_FLURRIES;
-        } else if( r > WEATHER_DRIZZLE ) {
+        } else if( r == WEATHER_RAINY ) {
             r = WEATHER_SNOW;
-        }
-        if( r == WEATHER_SNOW && w.pressure < 960 && w.windpower > 15 ) {
+        } else if( r >= WEATHER_THUNDER ) {
             r = WEATHER_SNOWSTORM;
         }
-    }
-
-    if( r == WEATHER_DRIZZLE && w.acidic ) {
-        r = WEATHER_ACID_DRIZZLE;
-    }
-    if( r > WEATHER_DRIZZLE && w.acidic ) {
-        r = WEATHER_ACID_RAIN;
+    } else if( w.acidic ) {
+        if( r == WEATHER_DRIZZLE ) {
+            r = WEATHER_ACID_DRIZZLE;
+        } else if( r == WEATHER_RAINY ) {
+            r = WEATHER_ACID_RAIN;
+        } else if( r == WEATHER_THUNDER ) {
+            r = WEATHER_ACID_THUNDER;
+        } else if( r == WEATHER_LIGHTNING ) {
+            r = WEATHER_ACID_LIGHTNING;
+        }
     }
     return r;
 }

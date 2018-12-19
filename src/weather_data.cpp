@@ -18,13 +18,15 @@ weather_animation_t get_weather_animation( weather_type const type )
     static const std::map<weather_type, weather_animation_t> map {
         {WEATHER_ACID_DRIZZLE, weather_animation_t {0.01f, c_light_green, '.'}},
         {WEATHER_ACID_RAIN,    weather_animation_t {0.02f, c_light_green, ','}},
-        {WEATHER_DRIZZLE,      weather_animation_t {0.01f, c_light_blue,  '.'}},
-        {WEATHER_RAINY,        weather_animation_t {0.02f, c_light_blue,  ','}},
-        {WEATHER_THUNDER,      weather_animation_t {0.02f, c_light_blue,  '.'}},
-        {WEATHER_LIGHTNING,    weather_animation_t {0.04f, c_light_blue,  ','}},
-        {WEATHER_FLURRIES,     weather_animation_t {0.01f, c_white,   '.'}},
-        {WEATHER_SNOW,         weather_animation_t {0.02f, c_white,   ','}},
-        {WEATHER_SNOWSTORM,    weather_animation_t {0.04f, c_white,   '*'}}
+        {WEATHER_ACID_THUNDER, weather_animation_t {0.04f, c_green, ';'}},
+        {WEATHER_ACID_LIGHTNING, weather_animation_t {0.06f, c_green, ';'}},
+        {WEATHER_DRIZZLE,      weather_animation_t {0.01f, c_light_blue, '.'}},
+        {WEATHER_RAINY,        weather_animation_t {0.02f, c_light_blue, ','}},
+        {WEATHER_THUNDER,      weather_animation_t {0.04f, c_blue, ';'}},
+        {WEATHER_LIGHTNING,    weather_animation_t {0.06f, c_blue, ';'}},
+        {WEATHER_FLURRIES,     weather_animation_t {0.01f, c_white, '.'}},
+        {WEATHER_SNOW,         weather_animation_t {0.02f, c_white, ','}},
+        {WEATHER_SNOWSTORM,    weather_animation_t {0.04f, c_white, '*'}}
     };
 
     const auto it = map.find( type );
@@ -87,6 +89,14 @@ static weather_result weather_data_internal( weather_type const type )
             weather_datum {
                 translate_marker( "Acid Rain" ), c_green, c_yellow_green, 'o', 4, 1.1f, -30, 4, true,
                 &weather_effect::acid
+            },
+            weather_datum {
+                translate_marker( "Acidic Thunder Storm" ), c_light_green, c_yellow_green, '%', 2, 1.03f, -20, 1, true,
+                &weather_effect::light_acid
+            },
+            weather_datum {
+                translate_marker( "Acidic Lighnung Storm" ), c_light_green, c_yellow_green, '%', 2, 1.03f, -20, 1, true,
+                &weather_effect::light_acid
             },
             weather_datum {
                 translate_marker( "Flurries" ), c_white, c_dark_gray_cyan, '.', 2, 1.12f, -15, 2, false,
