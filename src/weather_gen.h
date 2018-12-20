@@ -5,6 +5,7 @@
 #include <string>
 
 #include "calendar.h"
+#include "map.h"
 
 struct tripoint;
 class JsonObject;
@@ -20,6 +21,9 @@ struct w_point {
     int winddirection;
     bool   acidic;
 };
+
+// Records the locations where local acidity resides on the overmap
+extern std::unordered_map<tripoint, int> overmap_acidity;
 
 class weather_generator
 {

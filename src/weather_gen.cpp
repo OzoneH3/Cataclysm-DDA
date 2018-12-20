@@ -13,11 +13,13 @@
 #include "simplexnoise.h"
 #include "weather.h"
 #include "point.h"
+#include "overmap.h"
 
 #include <cmath>
 #include <cstdlib>
 #include <fstream>
-#include "debug.h"
+
+std::unordered_map<tripoint, int> overmap_acidity;
 
 namespace
 {
@@ -163,9 +165,12 @@ w_point weather_generator::get_weather( const tripoint &location, const time_poi
         }
     }
     std::string wind_desc = get_wind_desc( W );
+
     // Acid rains
     const double acid_content = base_acid * A;
-    bool acid = acid_content >= 1.0;
+    const bool acid = acid_content >= 1.0;
+    overmap_acidity[location] = static_cast<int>(acid_content);
+
     return w_point {T, H, P, W, wind_desc, current_winddir, acid};
 }
 
@@ -212,7 +217,9 @@ weather_type weather_generator::get_weather_conditions( const w_point &w ) const
             r = WEATHER_SNOWSTORM;
         }
     } else if( w.acidic ) {
-        if( r == WEATHER_DRIZZLE ) {
+        if( r == WEATHER_CLOUDY ) {
+            r = WEATHER_ACID_CLOUDS;
+        } else if( r == WEATHER_DRIZZLE ) {
             r = WEATHER_ACID_DRIZZLE;
         } else if( r == WEATHER_RAINY ) {
             r = WEATHER_ACID_RAIN;

@@ -855,6 +855,7 @@ void sfx::do_ambient()
             case WEATHER_CLEAR:
             case WEATHER_SUNNY:
             case WEATHER_CLOUDY:
+            case WEATHER_ACID_CLOUDS:
             case WEATHER_SNOWSTORM:
                 play_ambient_variant_sound( "environment", "WEATHER_SNOWSTORM", heard_volume, 20,
                                             1000 );
