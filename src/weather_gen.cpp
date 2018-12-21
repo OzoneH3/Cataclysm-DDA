@@ -14,12 +14,11 @@
 #include "weather.h"
 #include "point.h"
 #include "overmap.h"
+#include "coordinate_conversions.h"
 
 #include <cmath>
 #include <cstdlib>
 #include <fstream>
-
-std::unordered_map<tripoint, int> overmap_acidity;
 
 namespace
 {
@@ -168,8 +167,7 @@ w_point weather_generator::get_weather( const tripoint &location, const time_poi
 
     // Acid rains
     const double acid_content = base_acid * A;
-    const bool acid = acid_content >= 1.0;
-    overmap_acidity[location] = static_cast<int>(acid_content);
+    const bool acid = acid_content >= 1.0 || weather_local_acid.find( ms_to_omt_copy( location ) ) != weather_local_acid.end();
 
     return w_point {T, H, P, W, wind_desc, current_winddir, acid};
 }

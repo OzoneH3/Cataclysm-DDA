@@ -22,9 +22,6 @@ struct w_point {
     bool   acidic;
 };
 
-// Records the locations where local acidity resides on the overmap
-extern std::unordered_map<tripoint, int> overmap_acidity;
-
 class weather_generator
 {
     public:

@@ -49,6 +49,7 @@
 #include "math_defines.h"
 #include "monster.h"
 #include "string_formatter.h"
+#include "weather.h"
 
 class map_extra;
 
@@ -66,6 +67,8 @@ const efftype_id effect_pet( "pet" );
 
 using oter_type_id = int_id<oter_type_t>;
 using oter_type_str_id = string_id<oter_type_t>;
+
+#include "omdata.h"
 
 ////////////////
 oter_id  ot_null,
@@ -3831,14 +3834,20 @@ void overmap::place_special( const overmap_special &special, const tripoint &p,
 
         overmap_special_placements[location] = special.id;
 
-        /*
         if( special.acidity.min ) {
-            points_in_range()
-            overmap_acidity
-
+            auto loc = location + global_base_point();
+            int rad = special.acidity.min;
+            for( int x = loc.x - rad; x <= loc.x + rad; x++ ) {
+                for( int y = loc.y - rad; y <= loc.y + rad; y++ ) {
+                    if( trig_dist( loc.x, loc.y, x, y ) <= rad ) {
+                        const auto pt = tripoint( x, y, 0 );
+                        if( weather_local_acid[pt] < special.acidity.max ) {
+                            weather_local_acid[pt] = special.acidity.max;
+                        }
+                    }
+                }
+            }
         }
-        special.acidity.max; //strength
-        */
 
         ter( location ) = tid;
 

@@ -37,6 +37,9 @@ class item;
 struct trap;
 struct rl_vec2d;
 
+// Records the locations where local acidity resides on the map
+extern std::unordered_map<tripoint, int> weather_local_acid;
+
 /**
  * Weather type enum.
  */

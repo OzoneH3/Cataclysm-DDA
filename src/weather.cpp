@@ -45,6 +45,8 @@ const efftype_id effect_sleep( "sleep" );
 static const trait_id trait_CEPH_VISION( "CEPH_VISION" );
 static const trait_id trait_FEATHERS( "FEATHERS" );
 
+std::unordered_map<tripoint, int> weather_local_acid;
+
 /**
  * \defgroup Weather "Weather and its implications."
  * @{
